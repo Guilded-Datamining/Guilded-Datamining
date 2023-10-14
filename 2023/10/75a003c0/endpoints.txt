@@ -1,13 +1,8 @@
 [PUT] https://www.guilded.gg/api/data/event - {} : {}
 [GET] https://www.guilded.gg/api/users/ - {} : {}
 [POST] https://www.guilded.gg/api/users - {} : {}
-[POST]  - {"t":"overwolfId","a":"overwolfToken","r":"name"} : {}
 [GET] https://www.guilded.gg/api/users/<UNKNOWN>/teams - {} : {}
 [GET] https://www.guilded.gg/api/matchmaking/teams/<UNKNOWN>/info - {} : {}
-[GET]  - {} : {}
-[GET]  - {} : {}
-[GET]  - {} : {}
-[POST]  - {} : {}
 [POST] https://www.guilded.gg/api/teams/<UNKNOWN>/games - {} : {}
 [PUT] https://www.guilded.gg/api/teams/<UNKNOWN>/games/<UNKNOWN>/settings - {} : {}
 [DELETE] https://www.guilded.gg/api/teams/<UNKNOWN>/games/ - {} : {}
@@ -20,14 +15,12 @@
 [PUT] https://www.guilded.gg/api/invites/ - {} : {}
 [DELETE] https://www.guilded.gg/api/teams/<UNKNOWN>/invites/ - {} : {}
 [PUT] https://www.guilded.gg/api/teams/<TEAMID>/members/<USERID>/join - {"e":"teamId","t":"userId","a":"invitedBy","r":"isDirectInvite","n":"inviteId"} : {"isDirectInvite":"<ISDIRECTINVITE>","inviteId":"<INVITEID>"}
-[POST]  - {} : {}
 [POST] https://www.guilded.gg/api/login - {} : {}
 [PUT] https://www.guilded.gg/api/teams/<TEAMID>/posts/<THREADID>/lock - {"e":"teamId","t":"threadId","a":"isLocked"} : {"isLocked":"<ISLOCKED>"}
 [PUT] https://www.guilded.gg/api/users/<USERID>/posts//<POSTID> - {} : {}
 [POST] https://www.guilded.gg/api/users/<USERID>/posts - {} : {}
 [DELETE] https://www.guilded.gg/api/users/<USERID>/posts//<POSTID> - {} : {}
 [PUT] https://www.guilded.gg/api/teams/<TEAMID>/posts/<POSTID>/replies//<REPLYID> - {} : {}
-[GET]  - {"e":"url"} : {}
 [PUT] https://www.guilded.gg/api/publishedpost/ - {"e":"url","t":"profilePostId"} : {"url":"<URL>","profilePostId":"<PROFILEPOSTID>"}
 [DELETE] https://www.guilded.gg/api/publishedpost/ - {"e":"url"} : {}
 [GET] https://www.guilded.gg/api/publishedpost/ - {} : {}
@@ -60,10 +53,7 @@
 [GET] https://www.guilded.gg/api/users/player_info/ - {"e":"gameId","t":"userId"} : {}
 [DELETE] <UNKNOWN>/alias - {} : {}
 [PUT] <UNKNOWN>/alias - {} : {}
-[GET]  - {} : {}
-[GET]  - {} : {}
 [PUT] <UNKNOWN>/profilev2 - {} : {}
-[POST]  - {"e":"tag","t":"discordId","a":"region","r":"platform"} : {"tag":"<TAG>","discordId":"<DISCORDID>","region":"<REGION>","platform":"<PLATFORM>"}
 [DELETE] <UNKNOWN>/profile/sociallink - {} : {}
 [GET] https://www.guilded.gg/api/teams/<UNKNOWN>/docs/tags - {} : {}
 [POST] https://www.guilded.gg/api/teams/<TEAMID>/roles - {"e":"teamId","t":"role"} : {"role":"<ROLE>"}
@@ -165,14 +155,12 @@
 [GET] https://www.guilded.gg/api/content/link/ - {} : {}
 [GET] https://www.guilded.gg/api/matchmaking/early_access - {} : {}
 [POST] https://www.guilded.gg/api/matchmaking/early_access - {} : {}
-[GET]  - {} : {}
 [POST] https://www.guilded.gg/api/matchmaking/scrims - {} : {}
 [GET] https://www.guilded.gg/api/matchmaking/matches/ - {"e":"matchId"} : {}
 [GET] https://www.guilded.gg/api/matchmaking/users/<USERID>/matches - {"e":"userId"} : {}
 [GET] https://www.guilded.gg/api/matchmaking/teams/<TEAMID>/available_matches - {"e":"teamId"} : {}
 [PUT] https://www.guilded.gg/api/matchmaking/teams/<TEAMID>/available_matches/ - {"e":"teamId","t":"members","a":"matchId"} : {"members":"<MEMBERS>"}
 [GET] https://www.guilded.gg/api/matchmaking/teams/<TEAMID>/matches/ - {"e":"teamId","t":"gameId"} : {}
-[GET]  - {"e":"numMatches"} : {}
 [GET] https://www.guilded.gg/api/matchmaking/landingPage - {"e":"numMatches","t":"gameId"} : {}
 [GET] https://www.guilded.gg/api/matchmaking/leaderboard/ - {"e":"gameId","t":"dayRange"} : {}
 [PUT] https://www.guilded.gg/api/matchmaking/matches/<MATCHID>/results - {"e":"matchId","t":"teamAScore","a":"teamBScore"} : {}
@@ -190,7 +178,6 @@
 [PUT] https://www.guilded.gg/api/seen/<CATEGORYKEY>/<CATEGORYITEMID>/sections/<SECTIONITEMID>/items/ - {"e":"categoryKey","t":"categoryItemId","a":"sectionItemId","r":"itemId","n":"categoryItemType"} : {"categoryItemType":"<CATEGORYITEMTYPE>"}
 [POST] https://www.guilded.gg/api/teams/<TEAMID>/discord/share - {"e":"teamId","t":"discordUserIds","a":"channelIds","r":"shareUrl"} : {"discordUserIds":"<DISCORDUSERIDS>","channelIds":"<CHANNELIDS>","shareUrl":"<SHAREURL>"}
 [GET] https://www.guilded.gg/api/landingshowcaseteams/ - {"e":"gameId"} : {}
-[GET]  - {"e":"route"} : {}
 [PUT] https://www.guilded.gg/api/content/custom_forms - {} : {}
 [GET] https://www.guilded.gg/api/content/custom_forms/ - {"e":"customFormId"} : {}
 [GET] https://www.guilded.gg/api/content/custom_forms/<CUSTOMFORMID>/responses/ - {"e":"customFormId","t":"customFormResponseId"} : {}
@@ -229,7 +216,6 @@
 [GET] https://www.guilded.gg/api/users/me/teams/unseen - {} : {}
 [GET] https://www.guilded.gg/api/users/me/teams/unread - {} : {}
 [GET] https://www.guilded.gg/api/users/me/teams/status - {} : {}
-[GET]  - {"e":"query","t":"entityType","a":"maxResultsPerType","r":"excludedEntityIds"} : {}
 [GET] https://www.guilded.gg/api/users/me/teammates/search - {"e":"query","t":"maxResults"} : {}
 [PUT] https://www.guilded.gg/api/ae/<UNKNOWN>/expose - {} : {}
 [POST] https://www.guilded.gg/api/teams/<TEAMID>/verify - {"e":"teamId","t":"message"} : {"message":"<MESSAGE>"}
@@ -263,7 +249,6 @@
 [PUT] https://www.guilded.gg/api/mfa/disable - {} : {}
 [GET] https://www.guilded.gg/api/teams/<UNKNOWN>/settings/info - {} : {}
 [GET] https://www.guilded.gg/api/teams/<UNKNOWN>/anti_raid_settings - {} : {}
-[GET]  - {} : {}
 [GET] https://www.guilded.gg/api/explore/bots/featured - {} : {}
 [GET] https://www.guilded.gg/api/tags - {"e":"type"} : {}
 [GET] https://www.guilded.gg/api/users/me/calendar - {} : {}
