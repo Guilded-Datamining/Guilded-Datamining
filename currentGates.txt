@@ -1,4 +1,3 @@
-DrawerLayoutV2 - Enabled in Development
 AndroidCallkeepDisabled - Enabled in Development
 HeartbeatInRTCConnection - Enabled in Development, Enabled in Testing
 RefreshVoiceConsumersOnJoin - Enabled in Development
