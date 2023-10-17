@@ -1,46 +1,46 @@
-DrawerLayoutV2
-AndroidCallkeepDisabled
-HeartbeatInRTCConnection
-RefreshVoiceConsumersOnJoin
-UseDataChannelEvents
-EmitEventsOverDataChannel
+DrawerLayoutV2 - Disabled in Development
+AndroidCallkeepDisabled - Disabled in Development
+HeartbeatInRTCConnection - Disabled in Development, Disabled in Testing
+RefreshVoiceConsumersOnJoin - Disabled in Development
+UseDataChannelEvents - Disabled in Development, Disabled in Testing
+EmitEventsOverDataChannel - Disabled in Development, Disabled in Testing
 VideoChatMultiServer
 VoiceChatNoProcessing
-NativeUpdateAppOverlay
+NativeUpdateAppOverlay - Enabled in Production
 CanRenderScreenDimmer
-GuildedInternalDeveloperMode
+GuildedInternalDeveloperMode - Disabled in Development
 SentryDebug
-ShowGamePresence
+ShowGamePresence - Disabled in Development
 ShowExploreV4Nav
 ShowLFMV4Nav
 LaunchContactOnboarding
-VideoFilters
-SetupUpsell
+VideoFilters - Disabled in Development
+SetupUpsell - Disabled in Development
 NativeHotkeysDebug
 MeasureFrames
-GameOverlay
+GameOverlay - Disabled in Development
 ServerSubsNativeSubscribeFlowV2
 ServerSubsNativeSubscribeFlowV2IOS
 DisableLegacyNavOption
 NativeAppDebug
 NativeCapture
-AdvancedStreamSettings
+AdvancedStreamSettings - Enabled in Production
 DisableAuthyDownloadLink
 DisableGoogleAuthenticatorDownloadLink
-CreateScrims
+CreateScrims - Disabled in Development
 ForceIceTransportRelay
 PartnerProgramClosed
-ProfileHoverCardV3
-InAppUpdateBannerRollout
-InAppUpdateBannerExperiment
+ProfileHoverCardV3 - Disabled in Development, Disabled in Testing
+InAppUpdateBannerRollout - Disabled in Development
+InAppUpdateBannerExperiment - Disabled in Development
 ShareChannelContentOnNative
 CreateMessageDebug
-ShowTeamSecurityPage
-ShowActivityFilter
-SyncAndroidTextInput
+ShowTeamSecurityPage - Disabled in Development, Disabled in Testing
+ShowActivityFilter - Disabled in Development
+SyncAndroidTextInput - Disabled in Development, Disabled in Testing
 EnabledAndroidAutoCorrect
 ShowPartnerTeamsInDiscovery
-EnableLargeStandaloneEmotes
+EnableLargeStandaloneEmotes - Disabled in Development
 EnableAndroidWall
 EnableAndroidWednesdays
 VoiceZeroRtpOnPause
@@ -51,38 +51,38 @@ UseRTCAudioSilencePlayer
 VoiceLowerInputLatency
 VoiceLowerOutputLatency
 StreamingCaptureLowerAudioLatency
-MentionablesV2
+MentionablesV2 - Disabled in Development
 VoiceActivityDetectionNormal
 VoiceActivityDetectionLowBitrate
 VoiceActivityDetectionAggressive
 VoiceActivityDetectionVeryAggressive
-EnableNativeEmotesSettingsScreen
-EnableNativeReactionMotion
-EnableAsyncReactions
-ShowPTTWarningBanner
+EnableNativeEmotesSettingsScreen - Disabled in Development
+EnableNativeReactionMotion - Disabled in Development
+EnableAsyncReactions - Disabled in Development
+ShowPTTWarningBanner - Disabled in Development, Disabled in Testing
 EditorV2NativeChatChannelInputIOS
 EditorV2NativeChatChannelInputAndroid
-EnableMultipleFilesDragDrop
+EnableMultipleFilesDragDrop - Disabled in Development
 NativeRichContentReactionFix
-AsyncTeamMentionTypeahead
-AsyncTeamMemberSearch
-TempStopGapSidebarMembers
-OnboardingRobloxDiscoveryFlow
+AsyncTeamMentionTypeahead - Disabled in Development
+AsyncTeamMemberSearch - Disabled in Development
+TempStopGapSidebarMembers - Disabled in Development
+OnboardingRobloxDiscoveryFlow - Disabled in Development
 EnableFormExportToCsv
-EnableImageOverlayV2
-EnableVideoOverlayV2
-EnableNonBlockingMediaUploadDrawer
-EnableMembersSidebarDrawerV2
-EnableEditorToolbarOverlay
-EnablePrivateEvents
+EnableImageOverlayV2 - Disabled in Development
+EnableVideoOverlayV2 - Disabled in Development
+EnableNonBlockingMediaUploadDrawer - Disabled in Development
+EnableMembersSidebarDrawerV2 - Disabled in Development
+EnableEditorToolbarOverlay - Disabled in Development
+EnablePrivateEvents - Enabled in Production
 EnableFullMemberInfoDownload
-EnableNativeOAuthInDefaultBrowser
-EnableCanCreateChatFormsPermission
+EnableNativeOAuthInDefaultBrowser - Disabled in Development
+EnableCanCreateChatFormsPermission - Disabled in Development, Disabled in Testing
 EnableExtraMessageSpacing
-EnableNotificationReplyAction
-EnableInsertGifPickerV2
-EnabledMarkAllActivitiesAsRead
+EnableNotificationReplyAction - Disabled in Development
+EnableInsertGifPickerV2 - Disabled in Development
+EnabledMarkAllActivitiesAsRead - Disabled in Development
 EditorV2ChatChannelInputWeb
-EnableZoomableImageV2
-EnableTabFilterOverlay
+EnableZoomableImageV2 - Disabled in Development
+EnableTabFilterOverlay - Enabled in Production
 EnableRegexLinkValidation
