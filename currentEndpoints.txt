@@ -7,7 +7,7 @@
 [GET] "generateDefaultTeamName" https://www.guilded.gg/api - {}
 [POST] "createTeam" https://www.guilded.gg/api - {}
 [POST] "addGamesToTeam" https://www.guilded.gg/api/teams/<TEAMID>/games - {"gameIds":"<GAMEIDS>","createGroupsForGames":"<CREATEGROUPSFORGAMES>"}
-[PUT] "updateTeamV2" https://www.guilded.gg/api/teams/<UNKNOWN>/games/<UNKNOWN>/settings - {}
+[PUT] "updateTeamV2" https://www.guilded.gg/api/teams/<UNKNOWN>/games/<GAMEID>/settings - {}
 [DELETE] "removeGameFromTeam" https://www.guilded.gg/api/teams/<UNKNOWN>/games/ - {}
 [GET] "getTeamRecentInviteInfo" https://www.guilded.gg/api/teams/<TEAMID>/recentinviteinfo - {}
 [POST] "createInvite" https://www.guilded.gg/api<TEAMID>/invites - {}
@@ -56,7 +56,7 @@
 [PUT] "setUserAlias" https://www.guilded.gg/api<UNKNOWN>/alias - {}
 [PUT] "patchUserAliasAdditionalInfo" https://www.guilded.gg/api<GAMEID>/alias/additional_info - {"additionalInfo":"<ADDITIONALINFO>","gameId":"<GAMEID>"}
 [GET] "getPlayerInfoForGame" https://www.guilded.gg/api/users/player_info/ - {}
-[DELETE] "removeUserAlias" https://www.guilded.gg/api<UNKNOWN>/alias - {}
+[DELETE] "removeUserAlias" https://www.guilded.gg/api<UNNAMED>/alias - {}
 [PUT] "setUserAliasAdditionalInfo" https://www.guilded.gg/api<UNKNOWN>/alias - {}
 [GET] "getUserProfileV3" https://www.guilded.gg/api - {}
 [GET] "getUserSettings" https://www.guilded.gg/api - {}
@@ -92,8 +92,8 @@
 [DELETE] "deleteApplication" https://www.guilded.gg/api/teams/<TEAMID>/games/<GAMEID>/application/<APPLICATIONID> - {}
 [GET] "getApplication" https://www.guilded.gg/api/teams/<TEAMID>/members/<USERID>/games/<GAMEID>/application - {}
 [GET] "getApplicationById" https://www.guilded.gg/api/teams/<TEAMID>/games/null/application/<APPLICATIONID> - {}
-[GET] "getApplicationsCount" https://www.guilded.gg/api/teams/<UNKNOWN>/games/null/applicationV2/count - {}
-[GET] "getApplicationsV2" https://www.guilded.gg/api/teams/<UNKNOWN>/games/null/applicationV2 - {}
+[GET] "getApplicationsCount" https://www.guilded.gg/api/teams/<TEAMID>/games/null/applicationV2/count - {}
+[GET] "getApplicationsV2" https://www.guilded.gg/api/teams/<TEAMID>/games/null/applicationV2 - {}
 [POST] "createApplicationVote" https://www.guilded.gg/api/teams/<TEAMID>/games/<GAMEID>/application/<APPLICATIONID>/votes - {}
 [GET] "getApplicationVotes" https://www.guilded.gg/api/teams/<TEAMID>/games/<GAMEID>/application/<APPLICATIONID>/votes - {}
 [DELETE] "deleteApplicationVotes" https://www.guilded.gg/api/teams/<TEAMID>/games/<GAMEID>/application/<APPLICATIONID>/votes - {}
@@ -142,7 +142,7 @@
 [GET] "getTeamInvites" https://www.guilded.gg/api/teams/<TEAMID>/invites - {}
 [GET] "getTeamHashInvites" https://www.guilded.gg/api/teams/<TEAMID>/hash_invites - {}
 [GET] "isInvitedToTeam" https://www.guilded.gg/api/teams/<TEAMID>/invites/ - {}
-[GET] "getTeamCustomReactions" https://www.guilded.gg/api/teams/<UNKNOWN>/customReactions - {}
+[GET] "getTeamCustomReactions" https://www.guilded.gg/api/teams/<TEAMID>/customReactions - {}
 [GET] "getCustomReactionsCountForTeam" https://www.guilded.gg/api/teams/<TEAMID>/customReactionsCount - {}
 [GET] "getTeamCustomReactionCreators" https://www.guilded.gg/api/teams/<TEAMID>/customReactionCreators - {}
 [POST] "createTeamCustomReactions" https://www.guilded.gg/api/teams/<TEAMID>/customReactions - {"name":"<NAME>","png":"<PNG>","webp":"<WEBP>","apng":"<APNG>"}
