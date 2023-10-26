@@ -1,6 +1,7 @@
 AndroidCallkeepDisabled - Enabled in Development
 HeartbeatInRTCConnection - Enabled in Development, Enabled in Testing
 RefreshVoiceConsumersOnJoin - Enabled in Development
+LogAudioDeviceSettings - Enabled in Development
 UseDataChannelEvents - Enabled in Development, Enabled in Testing
 EmitEventsOverDataChannel - Enabled in Development, Enabled in Testing
 VideoChatMultiServer
