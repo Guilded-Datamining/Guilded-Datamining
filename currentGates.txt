@@ -86,3 +86,7 @@ EditorV2ChatChannelInputWeb
 EnableZoomableImageV2 - Enabled in Development
 EnableTabFilterOverlay - Disabled in Production
 EnableRegexLinkValidation
+ReduceStreamBitrate20
+ReduceStreamBitrate30
+ReduceStreamBitrate40
+ReduceStreamBitrate50
