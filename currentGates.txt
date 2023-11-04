@@ -1,6 +1,6 @@
 AndroidCallkeepDisabled - Enabled in Development
+ExtraRTCLogging - Enabled in Development
 HeartbeatInRTCConnection - Enabled in Development, Enabled in Testing
-RefreshVoiceConsumersOnJoin - Enabled in Development
 LogAudioDeviceSettings - Enabled in Development
 UseDataChannelEvents - Enabled in Development, Enabled in Testing
 EmitEventsOverDataChannel - Enabled in Development, Enabled in Testing
@@ -60,8 +60,6 @@ EnableNativeEmotesSettingsScreen - Enabled in Development
 EnableNativeReactionMotion - Enabled in Development
 EnableAsyncReactions - Enabled in Development
 ShowPTTWarningBanner - Enabled in Development, Enabled in Testing
-EditorV2NativeChatChannelInputIOS
-EditorV2NativeChatChannelInputAndroid
 EnableMultipleFilesDragDrop - Enabled in Development
 NativeRichContentReactionFix
 AsyncTeamMentionTypeahead - Enabled in Development
@@ -83,10 +81,9 @@ EnableNotificationReplyAction - Enabled in Development
 EnableInsertGifPickerV2 - Enabled in Development
 EnabledMarkAllActivitiesAsRead - Enabled in Development
 EditorV2ChatChannelInputWeb
+EditorV2ChatChannelInputNative
 EnableZoomableImageV2 - Enabled in Development
 EnableTabFilterOverlay - Disabled in Production
 EnableRegexLinkValidation
-ReduceStreamBitrate20
-ReduceStreamBitrate30
-ReduceStreamBitrate40
-ReduceStreamBitrate50
+EnableAndroidMaintainScrollPosition - Enabled in Development
+UserSocketChannelRooms - Enabled in Development
