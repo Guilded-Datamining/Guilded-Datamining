@@ -3,7 +3,7 @@ ExtraRTCLogging - Enabled in Development
 HeartbeatInRTCConnection - Enabled in Development, Enabled in Testing
 LogAudioDeviceSettings - Enabled in Development
 UseDataChannelEvents - Enabled in Development, Enabled in Testing
-EmitEventsOverDataChannel - Enabled in Development, Enabled in Testing
+DisableRTCWebsocket
 VideoChatMultiServer
 VoiceChatNoProcessing
 NativeUpdateAppOverlay - Disabled in Production
@@ -87,3 +87,5 @@ EnableTabFilterOverlay - Disabled in Production
 EnableRegexLinkValidation
 EnableAndroidMaintainScrollPosition - Enabled in Development
 UserSocketChannelRooms - Enabled in Development
+EnableActionMenuV2 - Disabled in Production
+EnableSeriesRSVP - Disabled in Production
