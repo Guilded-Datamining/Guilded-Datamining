@@ -11,7 +11,6 @@ CanRenderScreenDimmer
 GuildedInternalDeveloperMode - Enabled in Development
 SentryDebug
 ShowGamePresence - Enabled in Development
-ShowExploreV4Nav
 ShowLFMV4Nav
 LaunchContactOnboarding
 VideoFilters - Enabled in Development
@@ -59,7 +58,6 @@ VoiceActivityDetectionVeryAggressive
 EnableNativeEmotesSettingsScreen - Enabled in Development
 EnableNativeReactionMotion - Enabled in Development
 EnableAsyncReactions - Enabled in Development
-ShowPTTWarningBanner - Enabled in Development, Enabled in Testing
 EnableMultipleFilesDragDrop - Enabled in Development
 NativeRichContentReactionFix
 AsyncTeamMentionTypeahead - Enabled in Development
