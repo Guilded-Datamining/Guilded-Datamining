@@ -50,7 +50,6 @@ UseRTCAudioSilencePlayer
 VoiceLowerInputLatency
 VoiceLowerOutputLatency
 StreamingCaptureLowerAudioLatency
-MentionablesV2 - Enabled in Development
 VoiceActivityDetectionNormal
 VoiceActivityDetectionLowBitrate
 VoiceActivityDetectionAggressive
