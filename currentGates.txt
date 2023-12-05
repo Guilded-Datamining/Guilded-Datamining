@@ -1,4 +1,5 @@
 AndroidCallkeepEnabled
+RtcPessimisticChannelMounting - Enabled in Development
 ExtraRTCLogging - Enabled in Development
 HeartbeatInRTCConnection - Enabled in Development, Enabled in Testing
 LogAudioDeviceSettings - Enabled in Development
