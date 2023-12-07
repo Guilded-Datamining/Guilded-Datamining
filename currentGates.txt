@@ -70,7 +70,6 @@ EnableVideoOverlayV2 - Enabled in Development
 EnableNonBlockingMediaUploadDrawer - Enabled in Development
 EnableMembersSidebarDrawerV2 - Enabled in Development
 EnableEditorToolbarOverlay - Enabled in Development
-EnablePrivateEvents - Disabled in Production
 EnableFullMemberInfoDownload
 EnableNativeOAuthInDefaultBrowser - Enabled in Development
 EnableCanCreateChatFormsPermission - Enabled in Development, Enabled in Testing
