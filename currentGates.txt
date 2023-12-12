@@ -75,7 +75,6 @@ EnableNativeOAuthInDefaultBrowser - Enabled in Development
 EnableCanCreateChatFormsPermission - Enabled in Development, Enabled in Testing
 EnableExtraMessageSpacing
 EnableNotificationReplyAction - Enabled in Development
-EnableInsertGifPickerV2 - Enabled in Development
 EnabledMarkAllActivitiesAsRead - Enabled in Development
 EditorV2ChatChannelInputWeb
 EditorV2ChatChannelInputNative
@@ -92,4 +91,4 @@ EnableModalV2 - Enabled in Development
 EnableModalV2SpringConfig1
 EnableModalV2SpringConfig2
 EnableModalV2SpringConfig3
-NativeReactionRotatingCount - Disabled in Production
+NativeReactionRotatingCount
