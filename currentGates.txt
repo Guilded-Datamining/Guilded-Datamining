@@ -36,7 +36,6 @@ InAppUpdateBannerRollout - Enabled in Development
 InAppUpdateBannerExperiment - Enabled in Development
 ShareChannelContentOnNative
 CreateMessageDebug
-ShowTeamSecurityPage - Enabled in Development, Enabled in Testing
 ShowActivityFilter - Enabled in Development
 SyncAndroidTextInput - Enabled in Development, Enabled in Testing
 EnabledAndroidAutoCorrect
@@ -89,8 +88,6 @@ EnableActionMenuV2 - Disabled in Production
 EnableSeriesRSVP - Disabled in Production
 CacheMessages - Enabled in Development
 EnableModalV2 - Enabled in Development
-EnableModalV2SpringConfig1
-EnableModalV2SpringConfig2
-EnableModalV2SpringConfig3
 DisableAppRateFeedbackModal
 NativeReactionRotatingCount
+AndroidDisableInvertedCheck
