@@ -1,0 +1,93 @@
+AndroidCallkeepEnabled
+AllowDisconnectingUsers - Enabled in Development
+RtcPessimisticChannelMounting - Enabled in Development
+ExtraRTCLogging - Enabled in Development
+HeartbeatInRTCConnection - Enabled in Development, Enabled in Testing
+LogAudioDeviceSettings - Enabled in Development
+UseDataChannelEvents - Enabled in Development, Enabled in Testing
+DisableRTCWebsocket
+VideoChatMultiServer
+VoiceChatNoProcessing
+NativeUpdateAppOverlay - Disabled in Production
+CanRenderScreenDimmer
+GuildedInternalDeveloperMode - Enabled in Development
+SentryDebug
+ShowGamePresence - Enabled in Development
+ShowLFMV4Nav
+LaunchContactOnboarding
+VideoFilters - Enabled in Development
+SetupUpsell - Enabled in Development
+NativeHotkeysDebug
+MeasureFrames
+GameOverlay - Enabled in Development
+ServerSubsNativeSubscribeFlowV2
+ServerSubsNativeSubscribeFlowV2IOS
+DisableLegacyNavOption
+NativeAppDebug
+NativeCapture
+AdvancedStreamSettings - Disabled in Production
+DisableAuthyDownloadLink
+DisableGoogleAuthenticatorDownloadLink
+CreateScrims - Enabled in Development
+ForceIceTransportRelay
+PartnerProgramClosed
+ProfileHoverCardV3 - Enabled in Development, Enabled in Testing
+InAppUpdateBannerRollout - Enabled in Development
+InAppUpdateBannerExperiment - Enabled in Development
+ShareChannelContentOnNative
+CreateMessageDebug
+ShowActivityFilter - Enabled in Development
+SyncAndroidTextInput - Enabled in Development, Enabled in Testing
+EnabledAndroidAutoCorrect
+ShowPartnerTeamsInDiscovery
+EnableLargeStandaloneEmotes - Enabled in Development
+EnableAndroidWall
+EnableAndroidWednesdays
+VoiceZeroRtpOnPause
+VoiceDisableDTX
+VoiceEnableStereo
+VoiceDisableFEC
+UseRTCAudioSilencePlayer
+VoiceLowerInputLatency
+VoiceLowerOutputLatency
+StreamingCaptureLowerAudioLatency
+VoiceActivityDetectionNormal
+VoiceActivityDetectionLowBitrate
+VoiceActivityDetectionAggressive
+VoiceActivityDetectionVeryAggressive
+EnableNativeEmotesSettingsScreen - Enabled in Development
+EnableNativeReactionMotion - Enabled in Development
+EnableAsyncReactions - Enabled in Development
+EnableMultipleFilesDragDrop - Enabled in Development
+NativeRichContentReactionFix
+AsyncTeamMentionTypeahead - Enabled in Development
+AsyncTeamMemberSearch - Enabled in Development
+TempStopGapSidebarMembers - Enabled in Development
+OnboardingRobloxDiscoveryFlow - Enabled in Development
+EnableFormExportToCsv
+EnableImageOverlayV2 - Enabled in Development
+EnableVideoOverlayV2 - Enabled in Development
+EnableNonBlockingMediaUploadDrawer - Enabled in Development
+EnableMembersSidebarDrawerV2 - Enabled in Development
+EnableEditorToolbarOverlay - Enabled in Development
+EnableFullMemberInfoDownload
+EnableNativeOAuthInDefaultBrowser - Enabled in Development
+EnableCanCreateChatFormsPermission - Enabled in Development, Enabled in Testing
+EnableExtraMessageSpacing
+EnableNotificationReplyAction - Enabled in Development
+EnabledMarkAllActivitiesAsRead - Enabled in Development
+EditorV2ChatChannelInputWeb
+EditorV2ChatChannelInputNative
+EnableZoomableImageV2 - Enabled in Development
+EnableTabFilterOverlay - Disabled in Production
+EnableRegexLinkValidation
+EnableAndroidMaintainScrollPosition - Enabled in Development
+UserSocketChannelRooms - Enabled in Development
+NativeDisableResponseCheckBeforeParseJSON
+EnableActionMenuV2 - Disabled in Production
+EnableSeriesRSVP - Disabled in Production
+CacheMessages - Enabled in Development
+EnableModalV2 - Enabled in Development
+DisableAppRateFeedbackModal
+NativeReactionRotatingCount
+AndroidDisableInvertedCheck
