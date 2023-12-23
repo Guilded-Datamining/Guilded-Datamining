@@ -91,3 +91,4 @@ EnableModalV2 - Enabled in Development
 DisableAppRateFeedbackModal
 NativeReactionRotatingCount
 AndroidDisableInvertedCheck
+ApiErrorRequestLogging
