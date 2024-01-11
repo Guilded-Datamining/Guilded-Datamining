@@ -81,13 +81,13 @@ EnableZoomableImageV2 - Enabled in Development
 EnableTabFilterOverlay - Disabled in Production
 EnableRegexLinkValidation
 EnableAndroidMaintainScrollPosition - Enabled in Development
-UserSocketChannelRooms - Enabled in Development
 NativeDisableResponseCheckBeforeParseJSON
 EnableActionMenuV2 - Disabled in Production
 EnableSeriesRSVP - Disabled in Production
 CacheMessages - Enabled in Development
 EnableModalV2 - Enabled in Development
 DisableAppRateFeedbackModal
+EnableNativeLoadingDotsV2 - Enabled in Development
 NativeReactionRotatingCount
 AndroidDisableInvertedCheck
 ApiErrorRequestLogging
