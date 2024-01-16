@@ -77,6 +77,8 @@ EnableNotificationReplyAction - Enabled in Development
 EnabledMarkAllActivitiesAsRead - Enabled in Development
 EditorV2ChatChannelInputWeb
 EditorV2ChatChannelInputNative
+EditorV2ReactionEditorEnabledWeb
+EditorV2ReactionEditorEnabledNative
 EnableZoomableImageV2 - Enabled in Development
 EnableTabFilterOverlay - Disabled in Production
 EnableRegexLinkValidation
