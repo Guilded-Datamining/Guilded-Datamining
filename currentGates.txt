@@ -63,7 +63,6 @@ NativeRichContentReactionFix
 AsyncTeamMentionTypeahead - Enabled in Development
 AsyncTeamMemberSearch - Enabled in Development
 TempStopGapSidebarMembers - Enabled in Development
-OnboardingRobloxDiscoveryFlow - Enabled in Development
 EnableImageOverlayV2 - Enabled in Development
 EnableVideoOverlayV2 - Enabled in Development
 EnableNonBlockingMediaUploadDrawer - Enabled in Development
@@ -93,3 +92,4 @@ EnableNativeLoadingDotsV2 - Enabled in Development
 NativeReactionRotatingCount
 AndroidDisableInvertedCheck
 ApiErrorRequestLogging
+SimpleRichTextDisplayEditorTypeRenderer
