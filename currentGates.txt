@@ -78,6 +78,8 @@ EditorV2ChatChannelInputWeb
 EditorV2ChatChannelInputNative
 EditorV2ReactionEditorEnabledWeb
 EditorV2ReactionEditorEnabledNative
+EditorV2BareEditorEnabledWeb
+EditorV2BareEditorEnabledNative
 EnableZoomableImageV2 - Enabled in Development
 EnableTabFilterOverlay - Disabled in Production
 EnableRegexLinkValidation
