@@ -94,4 +94,5 @@ EnableNativeLoadingDotsV2 - Enabled in Development
 NativeReactionRotatingCount
 AndroidDisableInvertedCheck
 ApiErrorRequestLogging
+CheckCDNConnection
 SimpleRichTextDisplayEditorTypeRenderer
