@@ -80,6 +80,8 @@ EditorV2ReactionEditorEnabledWeb
 EditorV2ReactionEditorEnabledNative
 EditorV2BareEditorEnabledWeb
 EditorV2BareEditorEnabledNative
+EditorV2DefaultEditorEnabledWeb
+EditorV2DefaultEditorEnabledNative
 EnableZoomableImageV2 - Enabled in Development
 EnableTabFilterOverlay - Disabled in Production
 EnableRegexLinkValidation
