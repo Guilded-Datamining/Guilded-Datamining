@@ -267,3 +267,4 @@
 [PUT] "markGifAsFavorite" https://www.guilded.gg/api/users/me/gifs/<GIFID>/favorite - {"isFavorite":"<ISFAVORITE>"}
 [PUT] "updateUserUsageOfGif" https://www.guilded.gg/api/users/me/gifs/<GIFID>/usage - {}
 [GET] "getUserGifs" https://www.guilded.gg/api/users/me/gifs - {}
+[POST] "acceptTos" https://www.guilded.gg/api/users/me/tos - {}
