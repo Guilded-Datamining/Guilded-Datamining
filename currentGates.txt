@@ -84,7 +84,6 @@ EditorV2DefaultEditorEnabledWeb
 EditorV2DefaultEditorEnabledNative
 EnableZoomableImageV2 - Enabled in Development
 EnableTabFilterOverlay - Disabled in Production
-EnableRegexLinkValidation
 EnableAndroidMaintainScrollPosition - Enabled in Development
 NativeDisableResponseCheckBeforeParseJSON
 EnableActionMenuV2 - Disabled in Production
@@ -98,3 +97,5 @@ AndroidDisableInvertedCheck
 ApiErrorRequestLogging
 CheckCDNConnection
 SimpleRichTextDisplayEditorTypeRenderer
+EnableRobloxAvatarScene - Enabled in Development
+VirtualizedDMChannelList - Enabled in Development
