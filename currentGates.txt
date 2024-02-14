@@ -66,7 +66,6 @@ TempStopGapSidebarMembers - Enabled in Development
 EnableImageOverlayV2 - Enabled in Development
 EnableVideoOverlayV2 - Enabled in Development
 EnableNonBlockingMediaUploadDrawer - Enabled in Development
-EnableMembersSidebarDrawerV2 - Enabled in Development
 EnableEditorToolbarOverlay - Enabled in Development
 EnableFullMemberInfoDownload
 EnableNativeOAuthInDefaultBrowser - Enabled in Development
