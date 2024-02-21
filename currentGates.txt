@@ -41,7 +41,6 @@ ShowActivityFilter - Enabled in Development
 SyncAndroidTextInput - Enabled in Development, Enabled in Testing
 EnabledAndroidAutoCorrect
 ShowPartnerTeamsInDiscovery
-EnableLargeStandaloneEmotes - Enabled in Development
 EnableAndroidWall
 EnableAndroidWednesdays
 VoiceZeroRtpOnPause
