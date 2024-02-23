@@ -73,6 +73,8 @@ EnableNotificationReplyAction - Enabled in Development
 EnabledMarkAllActivitiesAsRead - Enabled in Development
 EditorV2ChatChannelInputWeb
 EditorV2ChatChannelInputNative
+EditorV2SimpleEditorInputWeb
+EditorV2SimpleEditorInputNative
 EditorV2ReactionEditorEnabledWeb
 EditorV2ReactionEditorEnabledNative
 EditorV2BareEditorEnabledWeb
@@ -80,10 +82,8 @@ EditorV2BareEditorEnabledNative
 EditorV2DefaultEditorEnabledWeb
 EditorV2DefaultEditorEnabledNative
 EnableZoomableImageV2 - Enabled in Development
-EnableTabFilterOverlay - Disabled in Production
 EnableAndroidMaintainScrollPosition - Enabled in Development
 NativeDisableResponseCheckBeforeParseJSON
-EnableActionMenuV2 - Disabled in Production
 EnableSeriesRSVP - Disabled in Production
 CacheMessages - Enabled in Development
 EnableModalV2 - Enabled in Development
