@@ -1,12 +1,8 @@
 AndroidCallkeepEnabled
-AllowDisconnectingUsers - Enabled in Development
 RtcPessimisticChannelMounting - Enabled in Development
 ShowTosBanner - Enabled in Development
 ExtraRTCLogging - Enabled in Development
-HeartbeatInRTCConnection - Enabled in Development, Enabled in Testing
 LogAudioDeviceSettings - Enabled in Development
-UseDataChannelEvents - Enabled in Development, Enabled in Testing
-DisableRTCWebsocket
 VideoChatMultiServer
 VoiceChatNoProcessing
 NativeUpdateAppOverlay - Disabled in Production
