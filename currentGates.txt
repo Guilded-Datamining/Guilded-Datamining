@@ -93,3 +93,4 @@ SimpleRichTextDisplayEditorTypeRenderer
 EnableRobloxAvatarScene - Enabled in Development
 VirtualizedDMChannelList - Enabled in Development
 LimitParticipantDownload - Enabled in Development
+RejectInvalidRichTextWrapper - Enabled in Development
