@@ -12,7 +12,6 @@
 [GET] "getTeamRecentInviteInfo" https://www.guilded.gg/api/teams/<TEAMID>/recentinviteinfo - {}
 [POST] "createInvite" https://www.guilded.gg/api/teams/<TEAMID>/invites - {}
 [PUT] "updateInvite" https://www.guilded.gg/api/teams/<UNKNOWN>/invites/ - {}
-[GET] "getInfoFromKey" https://www.guilded.gg/api/content/keys/ - {}
 [GET] "getTeamFromUserInvite" https://www.guilded.gg/api/invites/<UNNAMED>/user_team - {}
 [GET] "getFullInvite" https://www.guilded.gg/api/invites/ - {}
 [PUT] "consumeInvite" https://www.guilded.gg/api/invites/ - {}
@@ -112,7 +111,6 @@
 [GET] "getRatingInsights" https://www.guilded.gg/api/teams/<TEAMID>/games/<GAMEID>/ratinginsights - {}
 [GET] "getCompositionInsights" https://www.guilded.gg/api/analytics/games/ - {}
 [GET] "getEULA" https://www.guilded.gg/api/about/eula - {}
-[POST] "flagContent" https://www.guilded.gg/api/content/<TYPE>/<CONTENTID>/flag - {}
 [POST] "blockUser" https://www.guilded.gg/api/users/<BLOCKEDID>/block - {}
 [POST] "unblockUser" https://www.guilded.gg/api/users/<BLOCKEDID>/unblock - {}
 [POST] "updateTeamRecruitment" https://www.guilded.gg/api/teams/<TEAMID>/recruitment/ - {}
@@ -161,7 +159,6 @@
 [GET] "getVapidKey" https://www.guilded.gg/api/vapidKey - {}
 [POST] "createServiceWorkerSubscription" https://www.guilded.gg/api/users/me/notifications/serviceworker/subscribe - {"subscription":"<UNNAMED>"}
 [POST] "createContentLink" https://www.guilded.gg/api/content/link - {"content":"<CONTENT>"}
-[GET] "getLinkContent" https://www.guilded.gg/api/content/link/ - {}
 [GET] "getMatchmakingEarlyAccessStatus" https://www.guilded.gg/api/matchmaking/early_access - {}
 [POST] "signupForMatchmakingEarlyAccess" https://www.guilded.gg/api/matchmaking/early_access - {}
 [POST] "findScrim" https://www.guilded.gg/api/matchmaking/scrims - {}
