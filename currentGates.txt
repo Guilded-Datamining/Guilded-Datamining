@@ -57,8 +57,6 @@ NativeRichContentReactionFix
 AsyncTeamMentionTypeahead - Enabled in Development
 AsyncTeamMemberSearch - Enabled in Development
 TempStopGapSidebarMembers - Enabled in Development
-EnableImageOverlayV2 - Enabled in Development
-EnableVideoOverlayV2 - Enabled in Development
 EnableNonBlockingMediaUploadDrawer - Enabled in Development
 EnableEditorToolbarOverlay - Enabled in Development
 EnableFullMemberInfoDownload
