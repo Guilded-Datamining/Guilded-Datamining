@@ -75,6 +75,8 @@ EditorV2BareEditorEnabledWeb
 EditorV2BareEditorEnabledNative
 EditorV2DefaultEditorEnabledWeb
 EditorV2DefaultEditorEnabledNative
+EditorV2SearchEditorEnabledWeb
+EditorV2SearchEditorEnabledNative
 EditorV2SimpleRendererEnabledWeb
 EditorV2SimpleRendererEnabledNative
 EditorV2RichTextRendererEnabledWeb
@@ -98,3 +100,4 @@ LimitParticipantDownload - Enabled in Development
 RejectInvalidRichTextWrapper - Enabled in Development
 EditorAllowDiacriticalMarks
 RtcUseBaseEncodingRid
+EditorV2AugmentErrorProxyWeb
