@@ -1,6 +1,7 @@
 AndroidCallkeepEnabled
 RtcPessimisticChannelMounting - Enabled in Development
 ShowTosBanner - Enabled in Development
+StreamReactTag
 ExtraRTCLogging - Enabled in Development
 LogAudioDeviceSettings - Enabled in Development
 VideoChatMultiServer
