@@ -32,7 +32,6 @@ PartnerProgramClosed
 ProfileHoverCardV3 - Enabled in Development, Enabled in Testing
 InAppUpdateBannerRollout - Enabled in Development
 InAppUpdateBannerExperiment - Enabled in Development
-ShareChannelContentOnNative
 CreateMessageDebug
 ShowActivityFilter - Enabled in Development
 SyncAndroidTextInput - Enabled in Development, Enabled in Testing
@@ -64,7 +63,6 @@ EnableFullMemberInfoDownload
 EnableNativeOAuthInDefaultBrowser - Enabled in Development
 EnableCanCreateChatFormsPermission - Enabled in Development, Enabled in Testing
 EnableExtraMessageSpacing
-EnableNotificationReplyAction - Enabled in Development
 EnabledMarkAllActivitiesAsRead - Enabled in Development
 EditorV2ChatChannelInputWeb
 EditorV2ChatChannelInputNative
@@ -82,12 +80,10 @@ EditorV2SimpleRendererEnabledWeb
 EditorV2SimpleRendererEnabledNative
 EditorV2RichTextRendererEnabledWeb
 EditorV2RichTextRendererEnabledNative
-EnableZoomableImageV2 - Enabled in Development
 EnableAndroidMaintainScrollPosition - Enabled in Development
 NativeDisableResponseCheckBeforeParseJSON
 EnableSeriesRSVP - Disabled in Production
 CacheMessages - Enabled in Development
-EnableModalV2 - Enabled in Development
 DisableAppRateFeedbackModal
 EnableNativeLoadingDotsV2 - Enabled in Development
 NativeReactionRotatingCount
