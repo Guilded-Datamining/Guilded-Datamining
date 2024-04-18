@@ -86,7 +86,6 @@ EnableSeriesRSVP - Disabled in Production
 CacheMessages - Enabled in Development
 DisableAppRateFeedbackModal
 EnableNativeLoadingDotsV2 - Enabled in Development
-NativeReactionRotatingCount
 AndroidDisableInvertedCheck
 TeamMarketplace - Enabled in Development
 CheckCDNConnection
@@ -97,4 +96,6 @@ LimitParticipantDownload - Enabled in Development
 RejectInvalidRichTextWrapper - Enabled in Development
 EditorAllowDiacriticalMarks
 RtcUseBaseEncodingRid
+RightSizeClientLogs - Enabled in Development
 EditorV2AugmentErrorProxyWeb
+SlateToolsBetterIsEmpty
