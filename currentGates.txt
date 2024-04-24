@@ -15,13 +15,11 @@ ShowLFMV4Nav
 LaunchContactOnboarding
 VideoFilters - Enabled in Development
 SetupUpsell - Enabled in Development
-NativeHotkeysDebug
 MeasureFrames
 GameOverlay - Enabled in Development
 ServerSubsNativeSubscribeFlowV2
 ServerSubsNativeSubscribeFlowV2IOS
 DisableLegacyNavOption
-NativeAppDebug
 NativeCapture
 AdvancedStreamSettings - Disabled in Production
 DisableAuthyDownloadLink
