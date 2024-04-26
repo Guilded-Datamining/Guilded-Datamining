@@ -58,7 +58,7 @@ TempStopGapSidebarMembers - Enabled in Development
 EnableNonBlockingMediaUploadDrawer - Enabled in Development
 EnableEditorToolbarOverlay - Enabled in Development
 EnableFullMemberInfoDownload
-EnableNativeOAuthInDefaultBrowser - Enabled in Development
+EnableNativeOAuthInDefaultBrowser
 EnableCanCreateChatFormsPermission - Enabled in Development, Enabled in Testing
 EnableExtraMessageSpacing
 EnabledMarkAllActivitiesAsRead - Enabled in Development

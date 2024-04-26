@@ -419,6 +419,7 @@ RiseOfCivilizations;419;324074;/asset/GameIcons/RiseOfCivilizations-lg.png?v=892
 RisingStorm2Vietnam;259;220017;/asset/GameIcons/RisingStorm2Vietnam-lg.png;204,0,0
 RiskOfRain2;459;366074;/asset/GameIcons/RiskOfRain2-lg.png?v=f7cc599b;254,253,179
 Roblox;285;220044;/asset/GameIcons/Roblox-lg.png?v=96368c35;0,162,255
+RobloxStudio;584;491074;/asset/GameIcons/RobloxStudio-lg.png;0,159,255
 RoboCraft;113;111400;/asset/GameIcons/RoboCraft-lg.png;240,112,26
 RocketArena;467;374074;/asset/GameIcons/RocketArena-lg.png?v=f3f8e629;109,128,214
 RocketLeague;26;102700;/asset/GameIcons/RocketLeague-lg.png;51,140,186
