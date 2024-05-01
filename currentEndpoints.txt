@@ -19,11 +19,9 @@
 [PUT] "joinTeam" https://www.guilded.gg/api/teams/<TEAMID>/members/<USERID>/join/ - {"isDirectInvite":"<ISDIRECTINVITE>","inviteId":"<INVITEID>"}
 [POST] "logout" https://www.guilded.gg/api/logout - {}
 [POST] "login" https://www.guilded.gg/api/login/ - {}
-[PUT] "updateThreadIsLocked" https://www.guilded.gg/api/teams/<TEAMID>/posts/<THREADID>/lock - {"isLocked":"<ISLOCKED>"}
 [PUT] "editProfilePost" https://www.guilded.gg/api/users/<USERID>/posts/<POSTID> - {}
 [POST] "createProfilePost" https://www.guilded.gg/api/users/<USERID>/posts - {}
 [DELETE] "deleteProfilePost" https://www.guilded.gg/api/users/<USERID>/posts/<POSTID> - {}
-[PUT] "editReply" https://www.guilded.gg/api/teams/<TEAMID>/posts/<POSTID>/replies/<REPLYID> - {}
 [PUT] "publishPost" https://www.guilded.gg/api/publishedpost/ - {"url":"<URL>","profilePostId":"<PROFILEPOSTID>"}
 [DELETE] "unpublishPost" https://www.guilded.gg/api/publishedpost/ - {}
 [GET] "getPublishedPost" https://www.guilded.gg/api/publishedpost/ - {}
@@ -31,7 +29,6 @@
 [POST] "createContentReply" https://www.guilded.gg/api/content/<CONTENTTYPE>/<CONTENTID>/replies - {}
 [DELETE] "deleteContentReply" https://www.guilded.gg/api/content/<CONTENTTYPE>/<CONTENTID>/replies/<ID> - {}
 [GET] "getContentReplies" https://www.guilded.gg/api/content/<UNKNOWN>/<UNKNOWN>/replies - {}
-[DELETE] "deleteReply" https://www.guilded.gg/api/teams/<TEAMID>/posts/<POSTID>/replies/<ID> - {}
 [GET] "getProfilePosts" https://www.guilded.gg/api/users/ - {}
 [GET] "getProfilePost" https://www.guilded.gg/api/users/<USERID>/posts/ - {}
 [PUT] "updateNotificationPreferences" https://www.guilded.gg/api/users/me/notification_preferences - {"preferences":"<UNNAMED(E)>"}
@@ -41,7 +38,6 @@
 [GET] "getNotificationPreferences" https://www.guilded.gg/api/users/me/notification_preferences - {}
 [GET] "getSubdomain" https://www.guilded.gg/api/subdomains/ - {}
 [GET] "getUserSubdomain" https://www.guilded.gg/api/subdomains/u/ - {}
-[GET] "getReactions" https://www.guilded.gg/api/reactions/<UNKNOWN>/<UNKNOWN>/ - {}
 [PUT] "addReaction" https://www.guilded.gg/api/reactions/<CONTENTTYPE>/<CONTENTID>/ - {"customReactionId":"<CUSTOMREACTIONID>","teamId":"<TEAMID>"}
 [DELETE] "removeReaction" https://www.guilded.gg/api/reactions/<CONTENTTYPE>/<CONTENTID>/ - {"customReactionId":"<CUSTOMREACTIONID>","teamId":"<TEAMID>"}
 [DELETE] "removeContentReactionByUserId" https://www.guilded.gg/api/reactions/<CONTENTTYPE>/<CONTENTID>/<CUSTOMREACTIONID>/user/ - {"teamId":"<TEAMID>","channelId":"<CHANNELID>"}
@@ -89,7 +85,6 @@
 [DELETE] "unsubscribeFromSocialMediaEvent" https://www.guilded.gg/api/users/me/connections - {"socialMediaType":"<SOCIALMEDIATYPE>","eventType":"<EVENTTYPE>"}
 [POST] "createApplicationV2" https://www.guilded.gg/api/teams/<TEAMID>/games/<GAMEID>/application/V2 - {}
 [DELETE] "deleteApplication" https://www.guilded.gg/api/teams/<TEAMID>/games/<GAMEID>/application/<APPLICATIONID> - {}
-[GET] "getApplication" https://www.guilded.gg/api/teams/<TEAMID>/members/<USERID>/games/<GAMEID>/application - {}
 [GET] "getApplicationById" https://www.guilded.gg/api/teams/<TEAMID>/games/null/application/<APPLICATIONID> - {}
 [GET] "getApplicationsCount" https://www.guilded.gg/api/teams/<TEAMID>/games/null/applicationV2/count - {}
 [GET] "getApplicationsV2" https://www.guilded.gg/api/teams/<TEAMID>/games/null/applicationV2 - {}
@@ -118,18 +113,12 @@
 [POST] "updateTeamBanner" https://www.guilded.gg/api/teams/<TEAMID>/games/<GAMEID>/images/banner - {"imageUrl":"<IMAGEURL>"}
 [POST] "updateUserProfilePicture" https://www.guilded.gg/api/users/me/profile/images - {"imageUrl":"<IMAGEURL>"}
 [POST] "updateUserBannerImage" https://www.guilded.gg/api/users/me/profile/images/banner - {"imageUrl":"<IMAGEURL>"}
-[GET] "getChats" https://www.guilded.gg/api/chat/me/chats - {}
-[GET] "getTeammates" https://www.guilded.gg/api/chat/me/search/team/members - {}
-[POST] "getOnlineStatus" https://www.guilded.gg/api/chat/online - {"userIds":"<UNNAMED>"}
 [GET] "getUserPresenceForContext" https://www.guilded.gg/api/presenceV3/ - {}
 [PUT] "getUserPresence" https://www.guilded.gg/api/presenceV2 - {"userIds":"<UNNAMED>"}
-[GET] "getNextChatPage" https://www.guilded.gg/api/chat/ - {}
 [PUT] "addUserMediaV2" https://www.guilded.gg/api/users/me/media/v2 - {"media":"<UNNAMED(E)>"}
 [GET] "getUserMediaById" https://www.guilded.gg/api/users/<USERID>/media/ - {}
 [DELETE] "deleteUserMediaItem" https://www.guilded.gg/api/users/me/media/ - {}
-[POST] "uploadMedia" https://www.guilded.gg/api/content/media/upload - {}
 [GET] "getXboxGamertagInfo" https://www.guilded.gg/api/sociallink/xbox/ - {}
-[GET] "getTwitterInfo" https://www.guilded.gg/api/sociallink/twitter/ - {}
 [GET] "getYoutubeChannelInfo" https://www.guilded.gg/api/sociallink/youtube/ - {}
 [GET] "getXboxMediaDownloadUrl" https://www.guilded.gg/api/sociallink/xbox/media/<MEDIAID>/download/ - {}
 [GET] "getXboxGamertagRecentInfo" https://www.guilded.gg/api/sociallink/xbox/<UNNAMED(E)>/recentinfo - {}
@@ -158,13 +147,11 @@
 [POST] "getNotificationLock" https://www.guilded.gg/api/users/me/notifications/ - {}
 [GET] "getVapidKey" https://www.guilded.gg/api/vapidKey - {}
 [POST] "createServiceWorkerSubscription" https://www.guilded.gg/api/users/me/notifications/serviceworker/subscribe - {"subscription":"<UNNAMED>"}
-[POST] "createContentLink" https://www.guilded.gg/api/content/link - {"content":"<CONTENT>"}
 [GET] "getMatchmakingEarlyAccessStatus" https://www.guilded.gg/api/matchmaking/early_access - {}
 [POST] "signupForMatchmakingEarlyAccess" https://www.guilded.gg/api/matchmaking/early_access - {}
 [POST] "findScrim" https://www.guilded.gg/api/matchmaking/scrims - {}
 [GET] "getMatchById" https://www.guilded.gg/api/matchmaking/matches/ - {}
 [GET] "getMatchesForUser" https://www.guilded.gg/api/matchmaking/users/<USERID>/matches - {}
-[GET] "getAvailableMatchesForTeam" https://www.guilded.gg/api/matchmaking/teams/<TEAMID>/available_matches - {}
 [PUT] "acceptAvailableMatch" https://www.guilded.gg/api/matchmaking/teams/<TEAMID>/available_matches/ - {"members":"<MEMBERS>"}
 [GET] "getMatchesForTeam" https://www.guilded.gg/api/matchmaking/teams/<TEAMID>/matches/ - {}
 [GET] "getMatchesForLandingPage" https://www.guilded.gg/api/matchmaking/landingPage/ - {}
@@ -182,7 +169,6 @@
 [DELETE] "deleteAnnouncement" https://www.guilded.gg/api/teams/<TEAMID>/announcements/ - {}
 [GET] "getPinnedAnnouncements" https://www.guilded.gg/api/teams/<TEAMID>/announcements/pinned/ - {}
 [PUT] "updateSeenStateLastSeen" https://www.guilded.gg/api/seen/<CATEGORYKEY>/<CATEGORYITEMID>/sections/<SECTIONITEMID>/items/ - {"categoryItemType":"<CATEGORYITEMTYPE>"}
-[POST] "shareContentOnDiscord" https://www.guilded.gg/api/teams/<TEAMID>/discord/share - {"discordUserIds":"<DISCORDUSERIDS>","channelIds":"<CHANNELIDS>","shareUrl":"<SHAREURL>"}
 [GET] "getLandingShowcaseTeams" https://www.guilded.gg/api/landingshowcaseteams/ - {}
 [PUT] "createCustomForm" https://www.guilded.gg/api/content/custom_forms - {}
 [GET] "getCustomFormWithMostRecentResponse" https://www.guilded.gg/api/content/custom_forms/ - {}
@@ -193,8 +179,6 @@
 [GET] "getCustomFormResponses" https://www.guilded.gg/api/content/custom_forms/<CUSTOMFORMID>/responses - {}
 [PUT] "updateBatchTeamLfmStatus" https://www.guilded.gg/api/teams/<TEAMID>/lfmstatus - {"statusUpdates":"<STATUSUPDATES>"}
 [PUT] "updateTeamLfmStatus" https://www.guilded.gg/api/teams/<TEAMID>/lfmstatus/ - {"description":"<DESCRIPTION>","isLookingForMember":"<ISLOOKINGFORMEMBER>","isAcceptingApplications":"<ISACCEPTINGAPPLICATIONS>"}
-[GET] "getTeamLfmStatuses" https://www.guilded.gg/api/teams/<TEAMID>/lfmstatus - {}
-[GET] "getTeamLfmStatus" https://www.guilded.gg/api/teams/<TEAMID>/lfmstatus/ - {}
 [PUT] "updatePlayerLfgStatus" https://www.guilded.gg/api/users/me/lfgstatus/ - {"description":"<DESCRIPTION>","isLookingForGroup":"<ISLOOKINGFORGROUP>"}
 [GET] "getPlayerLfgStatus" https://www.guilded.gg/api/users/<USERID>/lfgstatus/ - {}
 [GET] "getPlayerLfgStatuses" https://www.guilded.gg/api/users/<USERID>/lfgstatus - {}
@@ -227,7 +211,6 @@
 [POST] "submitTeamVerification" https://www.guilded.gg/api/teams/<TEAMID>/verify - {"message":"<MESSAGE>"}
 [PUT] "updateUserTeamPriorities" https://www.guilded.gg/api/users/me/teams/priorities - {"teams":"<TEAMS>"}
 [PUT] "activateNewFeature" https://www.guilded.gg/api/users/me/features - {"featureId":"<FEATUREID>"}
-[GET] "getStreamInfo" [BASE_VIDEO_URL]/streams/ - {}
 [GET] "getPaymentInstruments" https://www.guilded.gg/api/users/<USERID>/payment_instruments - {}
 [POST] "addPaymentInstrument" https://www.guilded.gg/api/users/<USERID>/payment_instruments - {"token":"<TOKEN>","userId":"<USERID>","makeDefault":"<MAKEDEFAULT>"}
 [DELETE] "removePaymentInstrument" https://www.guilded.gg/api/users/<USERID>/payment_instruments/ - {}
