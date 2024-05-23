@@ -48,7 +48,6 @@ VoiceActivityDetectionNormal
 VoiceActivityDetectionLowBitrate
 VoiceActivityDetectionAggressive
 VoiceActivityDetectionVeryAggressive
-EnableAsyncReactions - Enabled in Development
 EnableMultipleFilesDragDrop - Enabled in Development
 NativeRichContentReactionFix
 AsyncTeamMentionTypeahead - Enabled in Development
