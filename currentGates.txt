@@ -26,7 +26,6 @@ DisableGoogleAuthenticatorDownloadLink
 CreateScrims - Enabled in Development
 ForceIceTransportRelay
 PartnerProgramClosed
-ProfileHoverCardV3 - Enabled in Development, Enabled in Testing
 InAppUpdateBannerRollout - Enabled in Development
 InAppUpdateBannerExperiment - Enabled in Development
 CreateMessageDebug
@@ -59,7 +58,6 @@ EnableFullMemberInfoDownload
 EnableNativeOAuthInDefaultBrowser
 EnableCanCreateChatFormsPermission - Enabled in Development, Enabled in Testing
 EnableExtraMessageSpacing
-EnabledMarkAllActivitiesAsRead - Enabled in Development
 EditorV2ChatChannelInputWeb
 EditorV2ChatChannelInputNative
 EditorV2SimpleEditorInputWeb
@@ -86,6 +84,7 @@ AndroidDisableInvertedCheck
 TeamMarketplace - Enabled in Development
 CheckCDNConnection
 SimpleRichTextDisplayEditorTypeRenderer
+RequireClaimingWithRoblox - Enabled in Development
 EnableRobloxAvatarScene - Enabled in Development
 VirtualizedDMChannelList - Enabled in Development
 LimitParticipantDownload - Enabled in Development
