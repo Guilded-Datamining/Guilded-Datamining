@@ -49,7 +49,6 @@ VoiceActivityDetectionAggressive
 VoiceActivityDetectionVeryAggressive
 EnableMultipleFilesDragDrop - Enabled in Development
 NativeRichContentReactionFix
-AsyncTeamMentionTypeahead - Enabled in Development
 AsyncTeamMemberSearch - Enabled in Development
 TempStopGapSidebarMembers - Enabled in Development
 EnableNonBlockingMediaUploadDrawer - Enabled in Development
@@ -84,7 +83,7 @@ AndroidDisableInvertedCheck
 TeamMarketplace - Enabled in Development
 CheckCDNConnection
 SimpleRichTextDisplayEditorTypeRenderer
-RequireClaimingWithRoblox - Enabled in Development
+RequireClaimingWithRoblox
 EnableRobloxAvatarScene - Enabled in Development
 VirtualizedDMChannelList - Enabled in Development
 LimitParticipantDownload - Enabled in Development
