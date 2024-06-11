@@ -57,6 +57,7 @@ EnableFullMemberInfoDownload
 EnableNativeOAuthInDefaultBrowser
 EnableCanCreateChatFormsPermission - Enabled in Development, Enabled in Testing
 EnableExtraMessageSpacing
+EditorV2SlateReactEditorReportAnyError
 EditorV2ChatChannelInputWeb
 EditorV2ChatChannelInputNative
 EditorV2SimpleEditorInputWeb
