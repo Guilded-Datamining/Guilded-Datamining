@@ -95,3 +95,4 @@ RightSizeClientLogs - Enabled in Development
 EditorV2AugmentErrorProxyWeb
 SlateToolsBetterIsEmpty
 EnableNewImageAndVideoPlayer - Enabled in Development
+EnableDefaultToNativeMediaPicker - Enabled in Development
