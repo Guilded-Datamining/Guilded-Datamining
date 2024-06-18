@@ -85,7 +85,6 @@ TeamMarketplace - Enabled in Development
 CheckCDNConnection
 SimpleRichTextDisplayEditorTypeRenderer
 RequireClaimingWithRoblox
-EnableRobloxAvatarScene - Enabled in Development
 VirtualizedDMChannelList - Enabled in Development
 LimitParticipantDownload - Enabled in Development
 RejectInvalidRichTextWrapper - Enabled in Development
@@ -96,3 +95,4 @@ EditorV2AugmentErrorProxyWeb
 SlateToolsBetterIsEmpty
 EnableNewImageAndVideoPlayer - Enabled in Development
 EnableDefaultToNativeMediaPicker - Enabled in Development
+EnableVibrationOnMessageReplyInNative - Enabled in Development
