@@ -51,7 +51,6 @@ EnableMultipleFilesDragDrop - Enabled in Development
 NativeRichContentReactionFix
 AsyncTeamMemberSearch - Enabled in Development
 TempStopGapSidebarMembers - Enabled in Development
-EnableNonBlockingMediaUploadDrawer - Enabled in Development
 EnableEditorToolbarOverlay - Enabled in Development
 EnableFullMemberInfoDownload
 EnableNativeOAuthInDefaultBrowser
