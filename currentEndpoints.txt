@@ -242,7 +242,7 @@
 [GET] "getTags" https://www.guilded.gg/api/tags - {}
 [GET] "getUserCalendarUrl" https://www.guilded.gg/api/users/me/calendar - {}
 [GET] "getOAuthVerificationState" https://www.guilded.gg/api/oauth/verify/<TYPE>/state - {}
-[GET] "getRobloxLoginCodeChallenge" https://www.guilded.gg/api/oauth/login/roblox/code_challenge - {}
+[GET] "getRobloxLoginAuthParams" https://www.guilded.gg/api/oauth/login/roblox/auth_params - {}
 [GET] "getRobloxClaimDetails" https://www.guilded.gg/api/oauth/claim/roblox/<ROBLOXID>/details - {}
 [POST] "claimAccountWithRoblox" https://www.guilded.gg/api/oauth/claim/roblox/ - {"mfaToken":"<MFATOKEN>"}
 [GET] "getAndroidOnlyLockStatus" https://www.guilded.gg/api/androidOnlyLockStatus - {}
