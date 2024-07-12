@@ -241,10 +241,13 @@
 [GET] "getFeaturedBots" https://www.guilded.gg/api/explore/bots/featured - {}
 [GET] "getTags" https://www.guilded.gg/api/tags - {}
 [GET] "getUserCalendarUrl" https://www.guilded.gg/api/users/me/calendar - {}
-[GET] "getOAuthVerificationState" https://www.guilded.gg/api/oauth/verify/<TYPE>/state - {}
+[GET] "getOAuthVerificationState" https://www.guilded.gg/api/oauth/verify/<TYPE>/state/ - {}
+[GET] "getOAuthVerificationAuthParams" https://www.guilded.gg/api/oauth/verify/<TYPE>/auth_params/ - {}
 [GET] "getRobloxLoginAuthParams" https://www.guilded.gg/api/oauth/login/roblox/auth_params - {}
-[GET] "getRobloxClaimDetails" https://www.guilded.gg/api/oauth/claim/roblox/<ROBLOXID>/details - {}
-[POST] "claimAccountWithRoblox" https://www.guilded.gg/api/oauth/claim/roblox/ - {"mfaToken":"<MFATOKEN>"}
+[GET] "getRobloxClaimDetails" https://www.guilded.gg/api/oauth/claim/roblox/<ROBLOXID>/details/ - {}
+[POST] "claimAccountWithRoblox" https://www.guilded.gg/api/oauth/claim/roblox/ - {"userToken":"<USERTOKEN>","mfaToken":"<MFATOKEN>"}
+[POST] "sendEmailVerificationCode" https://www.guilded.gg/api/email/verificationCode/ - {"email":"<EMAIL>"}
+[POST] "redeemEmailVerificationCode" https://www.guilded.gg/api/email/verificationCode/<PURPOSE>/redeem - {"email":"<EMAIL>","code":"<CODE>"}
 [GET] "getAndroidOnlyLockStatus" https://www.guilded.gg/api/androidOnlyLockStatus - {}
 [PUT] "markGifAsFavorite" https://www.guilded.gg/api/users/me/gifs/<GIFID>/favorite - {"isFavorite":"<ISFAVORITE>"}
 [PUT] "updateUserUsageOfGif" https://www.guilded.gg/api/users/me/gifs/<GIFID>/usage - {}
