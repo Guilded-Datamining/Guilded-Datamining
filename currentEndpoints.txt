@@ -245,7 +245,7 @@
 [GET] "getOAuthVerificationAuthParams" https://www.guilded.gg/api/oauth/verify/<TYPE>/auth_params/ - {}
 [GET] "getRobloxLoginAuthParams" https://www.guilded.gg/api/oauth/login/roblox/auth_params - {}
 [GET] "getRobloxClaimDetails" https://www.guilded.gg/api/oauth/claim/roblox/<ROBLOXID>/details/ - {}
-[POST] "claimAccountWithRoblox" https://www.guilded.gg/api/oauth/claim/roblox/ - {"userToken":"<USERTOKEN>","mfaToken":"<MFATOKEN>"}
+[POST] "claimAccountWithRoblox" https://www.guilded.gg/api/oauth/claim/roblox/ - {"userToken":"<USERTOKEN>","mfaToken":"<MFATOKEN>","mfaRecoveryCode":"<MFARECOVERYCODE>"}
 [POST] "sendEmailVerificationCode" https://www.guilded.gg/api/email/verificationCode/ - {"email":"<EMAIL>"}
 [POST] "redeemEmailVerificationCode" https://www.guilded.gg/api/email/verificationCode/<PURPOSE>/redeem - {"email":"<EMAIL>","code":"<CODE>"}
 [GET] "getAndroidOnlyLockStatus" https://www.guilded.gg/api/androidOnlyLockStatus - {}
