@@ -74,6 +74,7 @@ TeamMarketplace - Enabled in Development
 CheckCDNConnection
 SimpleRichTextDisplayEditorTypeRenderer
 RequireClaimingWithRoblox
+ForceUnskippableRobloxClaimOverlay
 LimitParticipantDownload - Enabled in Development
 RejectInvalidRadioOptionWrapper - Enabled in Development
 EditorAllowDiacriticalMarks
@@ -84,3 +85,4 @@ EnableNewImageAndVideoPlayer - Enabled in Development
 EnableDefaultToNativeMediaPicker - Enabled in Development
 EnableVibrationOnMessageReplyInNative - Enabled in Development
 RTCRemoveOrphanedConsumers - Enabled in Development
+LargeServerSidebar
