@@ -52,7 +52,7 @@ NativeRichContentReactionFix
 AsyncTeamMemberSearch - Enabled in Development
 TempStopGapSidebarMembers - Enabled in Development
 EnableEditorToolbarOverlay - Enabled in Development
-EnableFullMemberInfoDownload
+AsyncTeamMemberFetching
 EnableCanCreateChatFormsPermission - Enabled in Development, Enabled in Testing
 EnableExtraMessageSpacing
 EditorV2SlateReactEditorReportAnyError
