@@ -38,6 +38,7 @@
 [GET] "getNotificationPreferences" https://www.guilded.gg/api/users/me/notification_preferences - {}
 [GET] "getSubdomain" https://www.guilded.gg/api/subdomains/ - {}
 [GET] "getUserSubdomain" https://www.guilded.gg/api/subdomains/u/ - {}
+[GET] "getReactions" https://www.guilded.gg/api/reactions/<CONTENTTYPE>/ - {}
 [PUT] "addReaction" https://www.guilded.gg/api/reactions/<CONTENTTYPE>/<CONTENTID>/ - {"customReactionId":"<CUSTOMREACTIONID>","teamId":"<TEAMID>"}
 [DELETE] "removeReaction" https://www.guilded.gg/api/reactions/<CONTENTTYPE>/<CONTENTID>/ - {"customReactionId":"<CUSTOMREACTIONID>","teamId":"<TEAMID>"}
 [DELETE] "removeContentReactionByUserId" https://www.guilded.gg/api/reactions/<CONTENTTYPE>/<CONTENTID>/<CUSTOMREACTIONID>/user/ - {"teamId":"<TEAMID>","channelId":"<CHANNELID>"}
