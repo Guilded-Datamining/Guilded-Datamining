@@ -255,3 +255,5 @@
 [GET] "getUserGifs" https://www.guilded.gg/api/users/me/gifs - {}
 [POST] "acceptTos" https://www.guilded.gg/api/users/me/tos - {}
 [GET] "getLinkableMarketplaceProviders" https://www.guilded.gg/api/users/me/marketplace/providers - {}
+[GET] "getPendingJoinRequests" https://www.guilded.gg/api/teams/<TEAMID>/pending_join_requests - {}
+[PUT] "updatePendingJoinRequestStatus" https://www.guilded.gg/api/teams/<TEAMID>/pending_join_requests/ - {"status":"<STATUS>"}
