@@ -86,4 +86,3 @@ EnableDefaultToNativeMediaPicker - Enabled in Development
 EnableVibrationOnMessageReplyInNative - Enabled in Development
 RTCRemoveOrphanedConsumers - Enabled in Development
 TrimAnnouncementReactions - Enabled in Development
-LargeServerSidebar
