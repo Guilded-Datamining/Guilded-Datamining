@@ -75,6 +75,7 @@ CheckCDNConnection
 SimpleRichTextDisplayEditorTypeRenderer
 RequireClaimingWithRoblox
 ForceUnskippableRobloxClaimOverlay
+RobloxCredentialsBadgesEnabled
 LimitParticipantDownload - Enabled in Development
 RejectInvalidRadioOptionWrapper - Enabled in Development
 EditorAllowDiacriticalMarks
@@ -86,3 +87,4 @@ EnableDefaultToNativeMediaPicker - Enabled in Development
 EnableVibrationOnMessageReplyInNative - Enabled in Development
 RTCRemoveOrphanedConsumers - Enabled in Development
 TrimAnnouncementReactions - Enabled in Development
+EnableRnPerfMarkers
