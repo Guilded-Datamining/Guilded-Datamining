@@ -76,6 +76,7 @@ SimpleRichTextDisplayEditorTypeRenderer
 RequireClaimingWithRoblox
 ForceUnskippableRobloxClaimOverlay
 RobloxCredentialsBadgesEnabled
+RobloxEmailUpsellEnabled
 LimitParticipantDownload - Enabled in Development
 RejectInvalidRadioOptionWrapper - Enabled in Development
 EditorAllowDiacriticalMarks
