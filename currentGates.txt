@@ -71,7 +71,6 @@ CacheMessages - Enabled in Development
 DisableAppRateFeedbackModal
 EnableNativeLoadingDotsV2 - Enabled in Development
 AndroidDisableInvertedCheck
-TeamMarketplace - Enabled in Development
 CheckCDNConnection
 SimpleRichTextDisplayEditorTypeRenderer
 RequireClaimingWithRoblox
