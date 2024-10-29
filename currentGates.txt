@@ -90,3 +90,4 @@ RTCRemoveOrphanedConsumers - Enabled in Development
 TrimAnnouncementReactions - Enabled in Development
 EnableRnPerfMarkers
 PaginateDMs
+EnablePrototypeLessMaps - Enabled in Development, Enabled in Testing
