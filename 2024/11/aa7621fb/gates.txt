@@ -1,0 +1,85 @@
+AndroidCallkeepEnabled
+RtcPessimisticChannelMounting - Enabled in Development
+ShowTosBanner - Enabled in Development
+ExtraRTCLogging - Enabled in Development
+LogAudioDeviceSettings - Enabled in Development
+VideoChatMultiServer
+VoiceChatNoProcessing
+NativeUpdateAppOverlay - Disabled in Production
+CanRenderScreenDimmer
+GuildedInternalDeveloperMode - Enabled in Development
+DebounceSeenChannel - Enabled in Development
+SentryDebug
+ShowGamePresence - Enabled in Development
+ShowLFMV4Nav
+LaunchContactOnboarding
+VideoFilters - Enabled in Development
+SetupUpsell - Enabled in Development
+MeasureFrames
+GameOverlay - Enabled in Development
+ServerSubsNativeSubscribeFlowV2
+ServerSubsNativeSubscribeFlowV2IOS
+DisableLegacyNavOption
+NativeCapture
+AdvancedStreamSettings - Disabled in Production
+DisableAuthyDownloadLink
+DisableGoogleAuthenticatorDownloadLink
+CreateScrims - Enabled in Development
+ForceIceTransportRelay
+PartnerProgramClosed
+InAppUpdateBannerRollout - Enabled in Development
+InAppUpdateBannerExperiment - Enabled in Development
+CreateMessageDebug
+ShowActivityFilter - Enabled in Development
+SyncAndroidTextInput - Enabled in Development, Enabled in Testing
+EnabledAndroidAutoCorrect
+ShowPartnerTeamsInDiscovery
+EnableAndroidWall
+EnableAndroidWednesdays
+VoiceZeroRtpOnPause
+VoiceDisableDTX
+VoiceEnableStereo
+VoiceDisableFEC
+UseRTCAudioSilencePlayer
+VoiceLowerInputLatency
+VoiceLowerOutputLatency
+StreamingCaptureLowerAudioLatency
+VoiceActivityDetectionNormal
+VoiceActivityDetectionLowBitrate
+VoiceActivityDetectionAggressive
+VoiceActivityDetectionVeryAggressive
+EnableMultipleFilesDragDrop - Enabled in Development
+NativeRichContentReactionFix
+AsyncTeamMemberSearch - Enabled in Development
+TempStopGapSidebarMembers - Enabled in Development
+EnableEditorToolbarOverlay - Enabled in Development
+AsyncTeamMemberFetching
+EnableCanCreateChatFormsPermission - Enabled in Development, Enabled in Testing
+EnableExtraMessageSpacing
+EditorV2SlateReactEditorReportAnyError
+EnableAndroidMaintainScrollPosition - Enabled in Development
+NativeDisableResponseCheckBeforeParseJSON
+EnableSeriesRSVP - Disabled in Production
+CacheMessages - Enabled in Development
+DisableAppRateFeedbackModal
+EnableNativeLoadingDotsV2 - Enabled in Development
+AndroidDisableInvertedCheck
+CheckCDNConnection
+RequireClaimingWithRoblox
+ForceUnskippableRobloxClaimOverlay
+RobloxCredentialsBadgesEnabled
+RobloxEmailUpsellEnabled
+LimitParticipantDownload - Enabled in Development
+RejectInvalidRadioOptionWrapper - Enabled in Development
+EditorAllowDiacriticalMarks
+RtcUseBaseEncodingRid
+EditorV2AugmentErrorProxyWeb
+SlateToolsBetterIsEmpty
+EnableNewImageAndVideoPlayer - Enabled in Development
+EnableDefaultToNativeMediaPicker - Enabled in Development
+EnableVibrationOnMessageReplyInNative - Enabled in Development
+RTCRemoveOrphanedConsumers - Enabled in Development
+TrimAnnouncementReactions - Enabled in Development
+EnableRnPerfMarkers
+PaginateDMs
+EnablePrototypeLessMaps - Enabled in Development, Enabled in Testing

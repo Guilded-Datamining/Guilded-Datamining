@@ -65,7 +65,6 @@ DisableAppRateFeedbackModal
 EnableNativeLoadingDotsV2 - Enabled in Development
 AndroidDisableInvertedCheck
 CheckCDNConnection
-SimpleRichTextDisplayEditorTypeRenderer
 RequireClaimingWithRoblox
 ForceUnskippableRobloxClaimOverlay
 RobloxCredentialsBadgesEnabled
