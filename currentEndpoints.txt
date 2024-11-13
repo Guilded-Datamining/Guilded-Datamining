@@ -64,7 +64,7 @@
 [PUT] "updateTeamRoles" https://www.guilded.gg/api/teams/<TEAMID>/roles - {"roles":"<ROLES>"}
 [PUT] "updateTeamRolePriorities" https://www.guilded.gg/api/teams/<TEAMID>/rolepriorities - {"roles":"<ROLES>"}
 [DELETE] "deleteTeamRole" https://www.guilded.gg/api/teams/<TEAMID>/roles/ - {}
-[POST] "cloneTeamRole" https://www.guilded.gg/api/teams/<TEAMID>/roles/<ROLEID>/clone - {"existingRole":"<EXISTINGROLE>"}
+[POST] "cloneTeamRole" https://www.guilded.gg/api/teams/<TEAMID>/roles/<ROLEID>/clone - {}
 [PUT] "assignTeamRole" https://www.guilded.gg/api/teams/<TEAMID>/roles/<ROLEID>/users/ - {}
 [DELETE] "unassignTeamRole" https://www.guilded.gg/api/teams/<TEAMID>/roles/<ROLEID>/users/ - {}
 [PUT] "editMembersRoles" https://www.guilded.gg/api/teams/<TEAMID>/editmembersroles - {"members":"<MEMBERS>","roleToggleMap":"<ROLETOGGLEMAP>"}
