@@ -81,5 +81,6 @@ EnableVibrationOnMessageReplyInNative - Enabled in Development
 RTCRemoveOrphanedConsumers - Enabled in Development
 TrimAnnouncementReactions - Enabled in Development
 EnableRnPerfMarkers
+EnablePendingJoins
 PaginateDMs
 EnablePrototypeLessMaps - Enabled in Development, Enabled in Testing
