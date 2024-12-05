@@ -8,7 +8,6 @@ VoiceChatNoProcessing
 NativeUpdateAppOverlay - Disabled in Production
 CanRenderScreenDimmer
 GuildedInternalDeveloperMode - Enabled in Development
-DebounceSeenChannel - Enabled in Development
 SentryDebug
 ShowGamePresence - Enabled in Development
 ShowLFMV4Nav
