@@ -48,7 +48,6 @@ VoiceActivityDetectionLowBitrate
 VoiceActivityDetectionAggressive
 VoiceActivityDetectionVeryAggressive
 EnableMultipleFilesDragDrop - Enabled in Development
-NativeRichContentReactionFix
 AsyncTeamMemberSearch - Enabled in Development
 TempStopGapSidebarMembers - Enabled in Development
 EnableEditorToolbarOverlay - Enabled in Development
@@ -70,10 +69,7 @@ RobloxCredentialsBadgesEnabled
 RobloxEmailUpsellEnabled
 LimitParticipantDownload - Enabled in Development
 RejectInvalidRadioOptionWrapper - Enabled in Development
-EditorAllowDiacriticalMarks
 RtcUseBaseEncodingRid
-EditorV2AugmentErrorProxyWeb
-SlateToolsBetterIsEmpty
 EnableNewImageAndVideoPlayer - Enabled in Development
 EnableDefaultToNativeMediaPicker - Enabled in Development
 EnableVibrationOnMessageReplyInNative - Enabled in Development
