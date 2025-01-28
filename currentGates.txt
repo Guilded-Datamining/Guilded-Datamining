@@ -55,12 +55,10 @@ AsyncTeamMemberFetching
 EnableCanCreateChatFormsPermission - Enabled in Development, Enabled in Testing
 EnableExtraMessageSpacing
 EditorV2SlateReactEditorReportAnyError
-EnableAndroidMaintainScrollPosition - Enabled in Development
 NativeDisableResponseCheckBeforeParseJSON
 EnableSeriesRSVP - Disabled in Production
 CacheMessages - Enabled in Development
 DisableAppRateFeedbackModal
-EnableNativeLoadingDotsV2 - Enabled in Development
 CheckCDNConnection
 RequireClaimingWithRoblox
 ForceUnskippableRobloxClaimOverlay
@@ -79,3 +77,4 @@ PaginateDMs
 EnablePrototypeLessMaps - Enabled in Development, Enabled in Testing
 AppBlockingEnabled
 DisableDisplayingWarningModalOnHyperlinks
+EnableEditorTimestamp
