@@ -77,4 +77,5 @@ PaginateDMs
 EnablePrototypeLessMaps - Enabled in Development, Enabled in Testing
 AppBlockingEnabled
 DisableDisplayingWarningModalOnHyperlinks
+AnnouncementFlatListNative
 EnableEditorTimestamp
