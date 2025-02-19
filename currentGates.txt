@@ -1,7 +1,6 @@
 AndroidCallkeepEnabled
 RtcPessimisticChannelMounting - Enabled in Development
-ShowTosBanner - Enabled in Development
-ExtraRTCLogging - Enabled in Development
+DisableShowTosBanner
 LogAudioDeviceSettings - Enabled in Development
 VideoChatMultiServer
 VoiceChatNoProcessing
@@ -63,7 +62,6 @@ ForceUnskippableRobloxClaimOverlay
 RobloxCredentialsBadgesEnabled
 RobloxEmailUpsellEnabled
 LimitParticipantDownload - Enabled in Development
-RejectInvalidRadioOptionWrapper - Enabled in Development
 RtcUseBaseEncodingRid
 EnableNewImageAndVideoPlayer - Enabled in Development
 EnableDefaultToNativeMediaPicker - Enabled in Development
