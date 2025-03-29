@@ -56,14 +56,13 @@ NativeDisableResponseCheckBeforeParseJSON
 EnableSeriesRSVP - Disabled in Production
 CacheMessages - Enabled in Development
 DisableAppRateFeedbackModal
-CheckCDNConnection
+EnableRobloxPresenceUsersPlaying - Enabled in Development
 RequireClaimingWithRoblox
 ForceUnskippableRobloxClaimOverlay
 RobloxCredentialsBadgesEnabled
 RobloxEmailUpsellEnabled
 LimitParticipantDownload - Enabled in Development
 RtcUseBaseEncodingRid
-EnableNewImageAndVideoPlayer - Enabled in Development
 EnableDefaultToNativeMediaPicker - Enabled in Development
 RTCRemoveOrphanedConsumers - Enabled in Development
 TrimAnnouncementReactions - Enabled in Development
@@ -71,7 +70,6 @@ EnableRnPerfMarkers
 EnablePendingJoins
 PaginateDMs
 EnablePrototypeLessMaps - Enabled in Development, Enabled in Testing
-AppBlockingEnabled
 DisableDisplayingWarningModalOnHyperlinks
 AnnouncementFlatListNative
 EnableRestrictedContent

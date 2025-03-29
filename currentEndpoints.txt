@@ -116,9 +116,6 @@
 [POST] "updateUserBannerImage" https://www.guilded.gg/api/users/me/profile/images/banner - {"imageUrl":"<IMAGEURL>"}
 [GET] "getUserPresenceForContext" https://www.guilded.gg/api/presenceV3/ - {}
 [PUT] "getUserPresence" https://www.guilded.gg/api/presenceV2 - {"userIds":"<UNNAMED>"}
-[PUT] "addUserMediaV2" https://www.guilded.gg/api/users/me/media/v2 - {"media":"<UNNAMED(E)>"}
-[GET] "getUserMediaById" https://www.guilded.gg/api/users/<USERID>/media/ - {}
-[DELETE] "deleteUserMediaItem" https://www.guilded.gg/api/users/me/media/ - {}
 [GET] "getXboxGamertagInfo" https://www.guilded.gg/api/sociallink/xbox/ - {}
 [GET] "getYoutubeChannelInfo" https://www.guilded.gg/api/sociallink/youtube/ - {}
 [GET] "getXboxMediaDownloadUrl" https://www.guilded.gg/api/sociallink/xbox/media/<MEDIAID>/download/ - {}
