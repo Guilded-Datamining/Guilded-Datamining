@@ -27,7 +27,6 @@ ForceIceTransportRelay
 PartnerProgramClosed
 InAppUpdateBannerRollout - Enabled in Development
 InAppUpdateBannerExperiment - Enabled in Development
-CreateMessageDebug
 ShowActivityFilter - Enabled in Development
 SyncAndroidTextInput - Enabled in Development, Enabled in Testing
 EnabledAndroidAutoCorrect
