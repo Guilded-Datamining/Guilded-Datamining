@@ -73,3 +73,4 @@ DisableDisplayingWarningModalOnHyperlinks
 AnnouncementFlatListNative
 EnableRestrictedContent
 EnableEditorTimestamp
+Translate - Enabled in Development, Enabled in Testing
