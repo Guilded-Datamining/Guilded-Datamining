@@ -73,4 +73,6 @@ DisableDisplayingWarningModalOnHyperlinks
 AnnouncementFlatListNative
 EnableRestrictedContent
 EnableEditorTimestamp
+RobloxReportCategoriesV2
 Translate - Enabled in Development, Enabled in Testing
+EnableChannelFetchOnRoleUpdate
