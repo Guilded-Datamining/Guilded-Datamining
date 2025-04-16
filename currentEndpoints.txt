@@ -134,14 +134,11 @@
 [POST] "bulkCreateTeamCustomReactions" https://www.guilded.gg/api/teams/<TEAMID>/bulkCustomReactions - {"urls":"<URLS>"}
 [PUT] "updateTeamCustomReactions" https://www.guilded.gg/api/teams/<TEAMID>/customReactions/ - {"name":"<NAME>"}
 [DELETE] "deleteTeamCustomReactions" https://www.guilded.gg/api/teams/<TEAMID>/customReactions/ - {}
-[POST] "requestPasswordReset" https://www.guilded.gg/api/email/ - {}
-[POST] "requestPasswordResetAlreadyLoggedIn" https://www.guilded.gg/api/email/passwordreset - {}
 [POST] "sendVerificationEmail" https://www.guilded.gg/api/email/verify - {}
 [GET] "getUserVerification" https://www.guilded.gg/api/users/me/verification - {}
 [GET] "getUserRecoveryInfo" https://www.guilded.gg/api/users/me/recoveryInfo - {}
-[POST] "loginWithOneClickToken" https://www.guilded.gg/api/login - {}
 [POST] "loginWithOAuthCode" https://www.guilded.gg/api/oauth/login/ - {"code":"<CODE>"}
-[POST] "resetPassword" https://www.guilded.gg/api/users/me/password - {"newPassword":"<UNNAMED(E)>","currentPassword":"<UNNAMED(T)>","passwordResetToken":"<UNNAMED(A)>","invalidateSessions":"<UNNAMED(R)>"}
+[POST] "resetPassword" https://www.guilded.gg/api/users/me/password - {"newPassword":"<UNNAMED(E)>","currentPassword":"<UNNAMED(T)>","invalidateSessions":"<UNNAMED(A)>"}
 [POST] "getNotificationLock" https://www.guilded.gg/api/users/me/notifications/ - {}
 [GET] "getVapidKey" https://www.guilded.gg/api/vapidKey - {}
 [POST] "createServiceWorkerSubscription" https://www.guilded.gg/api/users/me/notifications/serviceworker/subscribe - {"subscription":"<UNNAMED>"}

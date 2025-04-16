@@ -15,8 +15,6 @@ VideoFilters - Enabled in Development
 SetupUpsell - Enabled in Development
 MeasureFrames
 GameOverlay - Enabled in Development
-ServerSubsNativeSubscribeFlowV2
-ServerSubsNativeSubscribeFlowV2IOS
 DisableLegacyNavOption
 NativeCapture
 AdvancedStreamSettings - Disabled in Production
@@ -71,7 +69,7 @@ PaginateDMs
 EnablePrototypeLessMaps - Enabled in Development, Enabled in Testing
 DisableDisplayingWarningModalOnHyperlinks
 AnnouncementFlatListNative
-EnableRestrictedContent
+DisableRestrictedContent
 EnableEditorTimestamp
 RobloxReportCategoriesV2
 Translate - Enabled in Development, Enabled in Testing
