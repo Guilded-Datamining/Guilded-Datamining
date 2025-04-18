@@ -252,3 +252,4 @@
 [GET] "getPendingJoinRequests" https://www.guilded.gg/api/teams/<TEAMID>/pending_join_requests - {}
 [PUT] "updatePendingJoinRequestStatus" https://www.guilded.gg/api/teams/<TEAMID>/pending_join_requests/ - {"status":"<STATUS>"}
 [POST] "queueAMPRestrictedFeatureUpdateCheck" https://www.guilded.gg/api/amp/check - {"feature":"<FEATURE>"}
+[POST] "getTranslations" https://www.guilded.gg/api/translations - {"localeCode":"<LOCALECODE>","hash":"<HASH>"}

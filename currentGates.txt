@@ -56,8 +56,6 @@ DisableAppRateFeedbackModal
 EnableRobloxPresenceUsersPlaying - Enabled in Development
 RequireClaimingWithRoblox
 ForceUnskippableRobloxClaimOverlay
-RobloxCredentialsBadgesEnabled
-RobloxEmailUpsellEnabled
 LimitParticipantDownload - Enabled in Development
 RtcUseBaseEncodingRid
 EnableDefaultToNativeMediaPicker - Enabled in Development
