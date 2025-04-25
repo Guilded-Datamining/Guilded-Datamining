@@ -45,7 +45,6 @@ VoiceActivityDetectionAggressive
 VoiceActivityDetectionVeryAggressive
 AsyncTeamMemberSearch - Enabled in Development
 TempStopGapSidebarMembers - Enabled in Development
-EnableEditorToolbarOverlay - Enabled in Development
 AsyncTeamMemberFetching
 EnableExtraMessageSpacing
 EditorV2SlateReactEditorReportAnyError
@@ -72,3 +71,4 @@ EnableEditorTimestamp
 RobloxReportCategoriesV2
 Translate - Enabled in Development, Enabled in Testing
 EnableChannelFetchOnRoleUpdate
+EnableNewNativeMediaChannelOverlay
