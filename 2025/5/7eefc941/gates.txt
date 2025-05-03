@@ -1,0 +1,74 @@
+AndroidCallkeepEnabled
+RtcPessimisticChannelMounting - Enabled in Development
+DisableShowTosBanner
+LogAudioDeviceSettings - Enabled in Development
+VideoChatMultiServer
+VoiceChatNoProcessing
+NativeUpdateAppOverlay - Disabled in Production
+CanRenderScreenDimmer
+GuildedInternalDeveloperMode - Enabled in Development
+SentryDebug
+ShowGamePresence - Enabled in Development
+ShowLFMV4Nav
+LaunchContactOnboarding
+VideoFilters - Enabled in Development
+SetupUpsell - Enabled in Development
+MeasureFrames
+GameOverlay - Enabled in Development
+DisableLegacyNavOption
+NativeCapture
+AdvancedStreamSettings - Disabled in Production
+DisableAuthyDownloadLink
+DisableGoogleAuthenticatorDownloadLink
+CreateScrims - Enabled in Development
+ForceIceTransportRelay
+PartnerProgramClosed
+InAppUpdateBannerRollout - Enabled in Development
+InAppUpdateBannerExperiment - Enabled in Development
+ShowActivityFilter - Enabled in Development
+SyncAndroidTextInput - Enabled in Development, Enabled in Testing
+EnabledAndroidAutoCorrect
+ShowPartnerTeamsInDiscovery
+EnableAndroidWall
+EnableAndroidWednesdays
+VoiceZeroRtpOnPause
+VoiceDisableDTX
+VoiceEnableStereo
+VoiceDisableFEC
+UseRTCAudioSilencePlayer
+VoiceLowerInputLatency
+VoiceLowerOutputLatency
+StreamingCaptureLowerAudioLatency
+VoiceActivityDetectionNormal
+VoiceActivityDetectionLowBitrate
+VoiceActivityDetectionAggressive
+VoiceActivityDetectionVeryAggressive
+AsyncTeamMemberSearch - Enabled in Development
+TempStopGapSidebarMembers - Enabled in Development
+AsyncTeamMemberFetching
+EnableExtraMessageSpacing
+EditorV2SlateReactEditorReportAnyError
+NativeDisableResponseCheckBeforeParseJSON
+EnableSeriesRSVP - Disabled in Production
+CacheMessages - Enabled in Development
+DisableAppRateFeedbackModal
+EnableRobloxPresenceUsersPlaying - Enabled in Development
+RequireClaimingWithRoblox
+ForceUnskippableRobloxClaimOverlay
+LimitParticipantDownload - Enabled in Development
+RtcUseBaseEncodingRid
+RTCRemoveOrphanedConsumers - Enabled in Development
+TrimAnnouncementReactions - Enabled in Development
+EnableRnPerfMarkers
+EnablePendingJoins
+PaginateDMs
+EnablePrototypeLessMaps - Enabled in Development, Enabled in Testing
+DisableDisplayingWarningModalOnHyperlinks
+AnnouncementFlatListNative
+DisableRestrictedContent
+EnableEditorTimestamp
+RobloxReportCategoriesV2
+Translate - Enabled in Development, Enabled in Testing
+EnableChannelFetchOnRoleUpdate
+EnableNewNativeMediaChannelOverlay
+DisplayEditOnRobloxButtonInNative

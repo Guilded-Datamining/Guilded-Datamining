@@ -57,7 +57,6 @@ RequireClaimingWithRoblox
 ForceUnskippableRobloxClaimOverlay
 LimitParticipantDownload - Enabled in Development
 RtcUseBaseEncodingRid
-EnableDefaultToNativeMediaPicker - Enabled in Development
 RTCRemoveOrphanedConsumers - Enabled in Development
 TrimAnnouncementReactions - Enabled in Development
 EnableRnPerfMarkers
@@ -72,3 +71,4 @@ RobloxReportCategoriesV2
 Translate - Enabled in Development, Enabled in Testing
 EnableChannelFetchOnRoleUpdate
 EnableNewNativeMediaChannelOverlay
+DisplayEditOnRobloxButtonInNative
