@@ -23,8 +23,6 @@ DisableGoogleAuthenticatorDownloadLink
 CreateScrims - Enabled in Development
 ForceIceTransportRelay
 PartnerProgramClosed
-InAppUpdateBannerRollout - Enabled in Development
-InAppUpdateBannerExperiment - Enabled in Development
 ShowActivityFilter - Enabled in Development
 SyncAndroidTextInput - Enabled in Development, Enabled in Testing
 EnabledAndroidAutoCorrect
@@ -61,12 +59,10 @@ RTCRemoveOrphanedConsumers - Enabled in Development
 TrimAnnouncementReactions - Enabled in Development
 EnableRnPerfMarkers
 EnablePendingJoins
-PaginateDMs
 EnablePrototypeLessMaps - Enabled in Development, Enabled in Testing
 DisableDisplayingWarningModalOnHyperlinks
 AnnouncementFlatListNative
 DisableRestrictedContent
-EnableEditorTimestamp
 RobloxReportCategoriesV2
 Translate - Enabled in Development, Enabled in Testing
 EnableChannelFetchOnRoleUpdate
