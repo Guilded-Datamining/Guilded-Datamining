@@ -48,7 +48,6 @@ EnableExtraMessageSpacing
 EditorV2SlateReactEditorReportAnyError
 NativeDisableResponseCheckBeforeParseJSON
 EnableSeriesRSVP - Disabled in Production
-CacheMessages - Enabled in Development
 DisableAppRateFeedbackModal
 EnableRobloxPresenceUsersPlaying - Enabled in Development
 RequireClaimingWithRoblox
