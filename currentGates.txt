@@ -11,6 +11,7 @@ SentryDebug
 ShowGamePresence - Enabled in Development
 ShowLFMV4Nav
 LaunchContactOnboarding
+EnableReportEmotes - Enabled in Development
 VideoFilters - Enabled in Development
 SetupUpsell - Enabled in Development
 MeasureFrames
@@ -67,3 +68,4 @@ Translate - Enabled in Development, Enabled in Testing
 EnableChannelFetchOnRoleUpdate
 EnableNewNativeMediaChannelOverlay
 DisplayEditOnRobloxButtonInNative
+EnableNativeFullscreenVideoButton
