@@ -69,3 +69,4 @@ EnableChannelFetchOnRoleUpdate
 EnableNewNativeMediaChannelOverlay
 DisplayEditOnRobloxButtonInNative
 EnableNativeFullscreenVideoButton
+EnableChatMessageErrorScroll

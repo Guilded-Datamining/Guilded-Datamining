@@ -188,8 +188,6 @@
 [GET] "getLfmUnreadCounts" https://www.guilded.gg/api/teams/<TEAMID>/lfm/<GAMEID>/unreadcounts - {}
 [GET] "getLfgUnreadCounts" https://www.guilded.gg/api/users/me/lfgunreadcounts - {}
 [GET] "getPlayerInvites" https://www.guilded.gg/api/teams/<TEAMID>/lfminvites/ - {}
-[POST] "getTeamsExplore" https://www.guilded.gg/api/explore/teams - {"filters":"<FILTERS>","limit":"<LIMIT>","sections":"<SECTIONS>","offset":"<OFFSET>"}
-[POST] "getPlayersExplore" https://www.guilded.gg/api/explore/players - {"filters":"<FILTERS>","limit":"<LIMIT>","sections":"<SECTIONS>","offset":"<OFFSET>"}
 [PUT] "markNudgeClickthrough" https://www.guilded.gg/api/users/me/nh/ - {"nudgeHash":"<UNNAMED>"}
 [POST] "sendAppInfoSms" https://www.guilded.gg/api/app/send_sms - {"phoneNumber":"<UNNAMED>"}
 [POST] "sendInviteLinkSms" https://www.guilded.gg/api/teams/<TEAMID>/send_invite_sms - {"phoneNumber":"<PHONENUMBER>","inviteId":"<INVITEID>"}
