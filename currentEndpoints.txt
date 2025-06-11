@@ -1,5 +1,6 @@
 [PUT] "log" https://www.guilded.gg/api/data/event - {}
 [GET] "getUserById" https://www.guilded.gg/api/users/ - {}
+[GET] "getUserMutualTeams" https://www.guilded.gg/api/users/me/mutual_teams/ - {}
 [POST] "createUser" https://www.guilded.gg/api/users - {}
 [GET] "getTeamsForUser" https://www.guilded.gg/api/users/<UNKNOWN>/teams/ - {}
 [GET] "getScrimTeamInfo" https://www.guilded.gg/api/matchmaking/teams/<UNNAMED>/info - {}
