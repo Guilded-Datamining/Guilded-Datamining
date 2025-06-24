@@ -69,5 +69,4 @@ EnableChannelFetchOnRoleUpdate
 EnableNewNativeMediaChannelOverlay
 DisplayEditOnRobloxButtonInNative
 EnableNativeFullscreenVideoButton
-EnableChatMessageErrorScroll
 EnableProfileCardMutualTeams
