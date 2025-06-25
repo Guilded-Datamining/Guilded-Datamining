@@ -21,7 +21,6 @@ NativeCapture
 AdvancedStreamSettings - Disabled in Production
 DisableAuthyDownloadLink
 DisableGoogleAuthenticatorDownloadLink
-CreateScrims - Enabled in Development
 ForceIceTransportRelay
 PartnerProgramClosed
 ShowActivityFilter - Enabled in Development
