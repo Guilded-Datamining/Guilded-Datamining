@@ -532,8 +532,8 @@ TowerFall;183;160000;/asset/GameIcons/TowerFall-lg.png;73,140,206
 TowerUnite;289;220048;/asset/GameIcons/TowerUnite-lg.png;124,161,237
 TownOfSalem;387;292074;/asset/GameIcons/TownOfSalem-lg.png?v=6d58c708;249,207,74
 Toxikk;184;161000;/asset/GameIcons/Toxikk-lg.png;133,216,220
-TrackMania;400;305074;/asset/GameIcons/TrackMania-lg.png?v=1698b950;225,183,66
 TrackMania;533;440074;/asset/GameIcons/TrackMania-lg.png?v=a185affa;0,184,229
+TrackMania;400;305074;/asset/GameIcons/TrackMania-lg.png?v=1698b950;225,183,66
 Transformers;138;114000;/asset/GameIcons/Transformers-lg.png;133,216,220
 TreeOfLife;290;220049;/asset/GameIcons/TreeOfLife-lg.png;250,153,9
 TreeOfSavior;348;253074;/asset/GameIcons/TreeOfSavior-lg.png?v=1526765462260;230,183,73
