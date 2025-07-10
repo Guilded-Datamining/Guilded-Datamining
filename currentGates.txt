@@ -69,3 +69,4 @@ EnableNewNativeMediaChannelOverlay
 DisplayEditOnRobloxButtonInNative
 EnableNativeFullscreenVideoButton
 EnableProfileCardMutualTeams
+EnableDMChannelsEnhancedPagination
