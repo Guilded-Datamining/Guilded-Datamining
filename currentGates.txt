@@ -54,7 +54,6 @@ RequireClaimingWithRoblox
 ForceUnskippableRobloxClaimOverlay
 LimitParticipantDownload - Enabled in Development
 RtcUseBaseEncodingRid
-RTCRemoveOrphanedConsumers - Enabled in Development
 TrimAnnouncementReactions - Enabled in Development
 EnableRnPerfMarkers
 EnablePendingJoins
