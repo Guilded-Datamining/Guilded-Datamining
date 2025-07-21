@@ -52,7 +52,6 @@ DisableAppRateFeedbackModal
 EnableRobloxPresenceUsersPlaying - Enabled in Development
 RequireClaimingWithRoblox
 ForceUnskippableRobloxClaimOverlay
-LimitParticipantDownload - Enabled in Development
 RtcUseBaseEncodingRid
 TrimAnnouncementReactions - Enabled in Development
 EnableRnPerfMarkers
