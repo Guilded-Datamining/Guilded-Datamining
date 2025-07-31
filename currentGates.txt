@@ -53,7 +53,7 @@ EnableRobloxPresenceUsersPlaying - Enabled in Development
 RequireClaimingWithRoblox
 ForceUnskippableRobloxClaimOverlay
 RtcUseBaseEncodingRid
-TrimAnnouncementReactions - Enabled in Development
+RTCRemoveOrphanedConsumers - Enabled in Development
 EnableRnPerfMarkers
 EnablePendingJoins
 EnablePrototypeLessMaps - Enabled in Development, Enabled in Testing
