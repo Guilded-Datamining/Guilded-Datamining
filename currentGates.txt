@@ -68,3 +68,4 @@ EnableNativeFullscreenVideoButton
 EnableProfileCardMutualTeams
 EnableDMChannelsEnhancedPagination
 AndroidEdgeToEdgeLogging
+ShowChromeStreamError
