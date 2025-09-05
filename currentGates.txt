@@ -41,7 +41,6 @@ VoiceActivityDetectionNormal
 VoiceActivityDetectionLowBitrate
 VoiceActivityDetectionAggressive
 VoiceActivityDetectionVeryAggressive
-AsyncTeamMemberSearch - Enabled in Development
 TempStopGapSidebarMembers - Enabled in Development
 AsyncTeamMemberFetching
 EnableExtraMessageSpacing
